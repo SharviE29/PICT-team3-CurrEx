@@ -36,3 +36,62 @@
     transform: rotate(360deg);
   }
 }
+
+/* .home{
+  height: 100%;
+  width: 100%;
+} */
+
+.GraphContainer{
+  color: black;
+  border: 1px solid #282c34;
+  height: 85vh;
+  width: 60%;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  background-color: yellow;
+  position: relative;
+  /* top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0; */
+  margin-left: 80;
+  margin-bottom: 100;
+}
+
+.dropdownpos{
+  background-color: #61dafb;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+/* .home{
+  height: 100%;
+  width: 100%;
+} */
+
+.GraphContainer{
+  color: black;
+  border: 1px solid #282c34;
+  height: 85vh;
+  width: 60%;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  background-color: yellow;
+  position: relative;
+  /* top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0; */
+  margin-left: 80;
+  margin-bottom: 100;
+}
+
+.dropdownpos{
+  background-color: #61dafb;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
