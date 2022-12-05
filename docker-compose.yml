@@ -1,0 +1,28 @@
+version: '3.8'
+services:
+    client:
+        build: client
+        image: webapp-client
+        restart: always
+        ports:
+            - 3000:3000
+        links:
+            - api
+        stdin_open: true
+
+    api:
+        build: api
+        image: webapp-api
+        restart: always
+        ports:
+            - 9000:9000
+        depends_on:
+            - mongodb
+
+    mongodb:
+        image: mongo
+        restart: always
+        container_name: mongodb
+        ports:
+            - 27017:27017
+        command: mongod --noauth
