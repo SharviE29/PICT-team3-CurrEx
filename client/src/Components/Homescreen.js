@@ -1,22 +1,75 @@
-import React from 'react'
+import React, { useState } from "react";
+import Linegraph from "./Linegraph";
 
 const Homescreen = () => {
-  return (
-    <div className='home'>
-      <div className='GraphContainer'>
-      <div className="dropdown" >
-  <button className="btn btn-secondary dropdown-toggle dropdownpos" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-    Dropdown button
-  </button>
-  <div className="dropdown-menu" aria-labelledby="dropdownMenuButton">
-    <a className="dropdown-item" href="#">Action</a>
-    <a className="dropdown-item" href="#">Another action</a>
-    <a className="dropdown-item" href="#">Something else here</a>
-  </div>
-</div>
-      </div>
-    </div>
-  )
-}
+    const [period, setPeriod] = useState("");
 
-export default Homescreen
+    return (
+        <div className="home">
+            <div className="GraphContainer">
+                <div>{period}</div>
+                <div className="dropdown period">
+                    <button
+                        class="btn btn-secondary dropdown-toggle"
+                        type="button"
+                        data-bs-toggle="dropdown"
+                        aria-expanded="false"
+                    >
+                        Select Stuff
+                    </button>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <a
+                                class="dropdown-item"
+                                onClick={() => {
+                                    setPeriod("yearly");
+                                }}
+                            >
+                                Yearly
+                            </a>
+                        </li>
+                        <li>
+                            <a
+                                class="dropdown-item"
+                                onClick={() => {
+                                    setPeriod("monthly");
+                                }}
+                            >
+                                Monthly
+                            </a>
+                        </li>
+                        <li>
+                            <a
+                                class="dropdown-item"
+                                href="#"
+                                onClick={() => {
+                                    setPeriod("weekly");
+                                }}
+                            >
+                                Weekly
+                            </a>
+                        </li>
+                        <li>
+                            <a
+                                class="dropdown-item"
+                                href="#"
+                                onClick={() => {
+                                    setPeriod("quarterly");
+                                }}
+                            >
+                                Quarterly
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                {/* <Linegraph/> */}
+                <div className="toInput">
+                    <div>q</div>
+                    <div>ds</div>
+                </div>
+            </div>
+        </div>
+    );
+};
+
+export default Homescreen;

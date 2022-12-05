@@ -74,19 +74,20 @@
 .GraphContainer{
   color: black;
   border: 1px solid #282c34;
-  height: 85vh;
+  height: 75vh;
   width: 60%;
   justify-content: center;
   display: flex;
   align-items: center;
   background-color: yellow;
-  position: relative;
+  position: absolute;
   /* top: 0;
   bottom: 0;
   right: 0;
   left: 0; */
-  margin-left: 80;
-  margin-bottom: 100;
+  bottom: 10%;
+  right: 20%;
+  
 }
 
 .dropdownpos{
@@ -94,4 +95,24 @@
   position: absolute;
   top: 0;
   left: 0;
+}
+
+.period{
+  position: absolute;
+  top: 10%;
+  right: 10%;
+}
+
+
+
+.GraphDisplay{
+  background-color: aquamarine;
+  width: 10vh;
+}
+
+.toInput{
+  position: absolute;
+  top: 20%;
+  left: 72%;
+  display: table-row;
 }
