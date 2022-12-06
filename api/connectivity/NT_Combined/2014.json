@@ -1,0 +1,5289 @@
+[
+  {
+    "Year_2014": [
+      [
+        {
+          "ID": 0,
+          "AVG": 80.56382375,
+          "MIN": 77.1045,
+          "MAX": 87.9686,
+          "CURR": "Algerian dinar   (DZD)"
+        },
+        {
+          "ID": 1,
+          "AVG": 1.10862372783682,
+          "MIN": 1.057305984,
+          "MAX": 1.232741617,
+          "CURR": "Australian dollar   (AUD)"
+        },
+        {
+          "ID": 2,
+          "AVG": 0.37599999999999995,
+          "MIN": 0.376,
+          "MAX": 0.376,
+          "CURR": "Bahrain dinar   (BHD)"
+        },
+        {
+          "ID": 3,
+          "AVG": 6.284199999999999,
+          "MIN": 6.2842,
+          "MAX": 6.2842,
+          "CURR": "Bolivar Fuerte   (VEF)"
+        },
+        {
+          "ID": 4,
+          "AVG": 8.97621898433051,
+          "MIN": 8.643042351,
+          "MAX": 9.551098376,
+          "CURR": "Botswana pula   (BWP)"
+        },
+        {
+          "ID": 5,
+          "AVG": 2.3506266393442625,
+          "MIN": 2.1974,
+          "MAX": 2.7403,
+          "CURR": "Brazilian real   (BRL)"
+        },
+        {
+          "ID": 6,
+          "AVG": 1.2670439130434783,
+          "MIN": 1.2377,
+          "MAX": 1.3253,
+          "CURR": "Brunei dollar   (BND)"
+        },
+        {
+          "ID": 7,
+          "AVG": 1.1046142259414224,
+          "MIN": 1.0614,
+          "MAX": 1.1643,
+          "CURR": "Canadian dollar   (CAD)"
+        },
+        {
+          "ID": 8,
+          "AVG": 570.0804583333334,
+          "MIN": 524.61,
+          "MAX": 621.41,
+          "CURR": "Chilean peso   (CLP)"
+        },
+        {
+          "ID": 9,
+          "AVG": 6.14343275862069,
+          "MIN": 6.093,
+          "MAX": 6.171,
+          "CURR": "Chinese yuan   (CNY)"
+        },
+        {
+          "ID": 10,
+          "AVG": 1998.1598684210526,
+          "MIN": 1845.36,
+          "MAX": 2446.35,
+          "CURR": "Colombian peso   (COP)"
+        },
+        {
+          "ID": 11,
+          "AVG": 20.748058091286307,
+          "MIN": 19.618,
+          "MAX": 22.834,
+          "CURR": "Czech koruna   (CZK)"
+        },
+        {
+          "ID": 12,
+          "AVG": 5.6206771186440685,
+          "MIN": 5.3492,
+          "MAX": 6.1214,
+          "CURR": "Danish krone   (DKK)"
+        },
+        {
+          "ID": 13,
+          "AVG": 0.7537079141943321,
+          "MIN": 0.716691751,
+          "MAX": 0.823655383,
+          "CURR": "Euro   (EUR)"
+        },
+        {
+          "ID": 14,
+          "AVG": 232.56008368200838,
+          "MIN": 216.89,
+          "MAX": 259.23,
+          "CURR": "Hungarian forint   (HUF)"
+        },
+        {
+          "ID": 15,
+          "AVG": 116.75700421940928,
+          "MIN": 111.61,
+          "MAX": 127.16,
+          "CURR": "Icelandic krona   (ISK)"
+        },
+        {
+          "ID": 16,
+          "AVG": 61.012527354260094,
+          "MIN": 58.426,
+          "MAX": 63.7498,
+          "CURR": "Indian rupee   (INR)"
+        },
+        {
+          "ID": 17,
+          "AVG": 11879.702586206897,
+          "MIN": 11271,
+          "MAX": 12900,
+          "CURR": "Indonesian rupiah   (IDR)"
+        },
+        {
+          "ID": 18,
+          "AVG": 25934.448087431694,
+          "MIN": 24773,
+          "MAX": 27139,
+          "CURR": "Iranian rial   (IRR)"
+        },
+        {
+          "ID": 19,
+          "AVG": 3.580846153846154,
+          "MIN": 3.402,
+          "MAX": 3.994,
+          "CURR": "Israeli New Shekel   (ILS)"
+        },
+        {
+          "ID": 20,
+          "AVG": 105.62519148936171,
+          "MIN": 100.95,
+          "MAX": 121.52,
+          "CURR": "Japanese yen   (JPY)"
+        },
+        {
+          "ID": 21,
+          "AVG": 179.30489711934155,
+          "MIN": 154.06,
+          "MAX": 184.95,
+          "CURR": "Kazakhstani tenge   (KZT)"
+        },
+        {
+          "ID": 22,
+          "AVG": 1052.5033050847458,
+          "MIN": 1008.9,
+          "MAX": 1118.3,
+          "CURR": "Korean won   (KRW)"
+        },
+        {
+          "ID": 23,
+          "AVG": 0.28469864864864863,
+          "MIN": 0.2805,
+          "MAX": 0.2929,
+          "CURR": "Kuwaiti dinar   (KWD)"
+        },
+        {
+          "ID": 24,
+          "AVG": 1.9324,
+          "MIN": 1.9324,
+          "MAX": 1.9324,
+          "CURR": "Libyan dinar   (LYD)"
+        },
+        {
+          "ID": 25,
+          "AVG": 3.272604700854701,
+          "MIN": 3.148,
+          "MAX": 3.504,
+          "CURR": "Malaysian ringgit   (MYR)"
+        },
+        {
+          "ID": 26,
+          "AVG": 30.629686695278973,
+          "MIN": 29.9011,
+          "MAX": 31.7281,
+          "CURR": "Mauritian rupee   (MUR)"
+        },
+        {
+          "ID": 27,
+          "AVG": 13.299935087719296,
+          "MIN": 12.8462,
+          "MAX": 14.7853,
+          "CURR": "Mexican peso   (MXN)"
+        },
+        {
+          "ID": 28,
+          "AVG": 97.6066108786611,
+          "MIN": 93.56,
+          "MAX": 101.87,
+          "CURR": "Nepalese rupee   (NPR)"
+        },
+        {
+          "ID": 29,
+          "AVG": 1.2053174671791667,
+          "MIN": 1.133658315,
+          "MAX": 1.30667712,
+          "CURR": "New Zealand dollar   (NZD)"
+        },
+        {
+          "ID": 30,
+          "AVG": 6.3037209205020925,
+          "MIN": 5.8611,
+          "MAX": 7.6111,
+          "CURR": "Norwegian krone   (NOK)"
+        },
+        {
+          "ID": 31,
+          "AVG": 0.3845,
+          "MIN": 0.3845,
+          "MAX": 0.3845,
+          "CURR": "Omani rial   (OMR)"
+        },
+        {
+          "ID": 32,
+          "AVG": 100.98257965367965,
+          "MIN": 96.1064,
+          "MAX": 105.6187,
+          "CURR": "Pakistani rupee   (PKR)"
+        },
+        {
+          "ID": 33,
+          "AVG": 2.835713656387665,
+          "MIN": 2.76,
+          "MAX": 2.987,
+          "CURR": "Peruvian sol   (PEN)"
+        },
+        {
+          "ID": 34,
+          "AVG": 44.38940000000001,
+          "MIN": 43.28,
+          "MAX": 45.406,
+          "CURR": "Philippine peso   (PHP)"
+        },
+        {
+          "ID": 35,
+          "AVG": 3.154201244813278,
+          "MIN": 3.0042,
+          "MAX": 3.5458,
+          "CURR": "Polish zloty   (PLN)"
+        },
+        {
+          "ID": 36,
+          "AVG": 3.64,
+          "MIN": 3.64,
+          "MAX": 3.64,
+          "CURR": "Qatari riyal   (QAR)"
+        },
+        {
+          "ID": 37,
+          "AVG": 38.59944808510639,
+          "MIN": 33.1204,
+          "MAX": 67.7851,
+          "CURR": "Russian ruble   (RUB)"
+        },
+        {
+          "ID": 38,
+          "AVG": 3.75,
+          "MIN": 3.75,
+          "MAX": 3.75,
+          "CURR": "Saudi Arabian riyal   (SAR)"
+        },
+        {
+          "ID": 39,
+          "AVG": 1.2668563025210084,
+          "MIN": 1.2377,
+          "MAX": 1.3253,
+          "CURR": "Singapore dollar   (SGD)"
+        },
+        {
+          "ID": 40,
+          "AVG": 10.847731434599154,
+          "MIN": 10.30985,
+          "MAX": 11.6767,
+          "CURR": "South African rand   (ZAR)"
+        },
+        {
+          "ID": 41,
+          "AVG": 130.5535701754386,
+          "MIN": 130.13,
+          "MAX": 131.0778,
+          "CURR": "Sri Lankan rupee   (LKR)"
+        },
+        {
+          "ID": 42,
+          "AVG": 6.862914285714286,
+          "MIN": 6.3392,
+          "MAX": 7.8117,
+          "CURR": "Swedish krona   (SEK)"
+        },
+        {
+          "ID": 43,
+          "AVG": 0.9151918367346938,
+          "MIN": 0.871,
+          "MAX": 0.9891,
+          "CURR": "Swiss franc   (CHF)"
+        },
+        {
+          "ID": 44,
+          "AVG": 32.48027705627705,
+          "MIN": 31.774,
+          "MAX": 33.105,
+          "CURR": "Thai baht   (THB)"
+        },
+        {
+          "ID": 45,
+          "AVG": 6.384737991266376,
+          "MIN": 6.3159,
+          "MAX": 6.4628,
+          "CURR": "Trinidadian dollar   (TTD)"
+        },
+        {
+          "ID": 46,
+          "AVG": 1.7049595794392525,
+          "MIN": 1.5698,
+          "MAX": 1.86578,
+          "CURR": "Tunisian dinar   (TND)"
+        },
+        {
+          "ID": 47,
+          "AVG": 3.6725,
+          "MIN": 3.6725,
+          "MAX": 3.6725,
+          "CURR": "U.A.E. dirham   (AED)"
+        },
+        {
+          "ID": 48,
+          "AVG": 0.6071521335927419,
+          "MIN": 0.582716625,
+          "MAX": 0.643707757,
+          "CURR": "U.K. pound   (GBP)"
+        },
+        {
+          "ID": 49,
+          "AVG": 1,
+          "MIN": 1,
+          "MAX": 1,
+          "CURR": "U.S. dollar   (USD)"
+        },
+        {
+          "ID": 50,
+          "AVG": 23.249669565217392,
+          "MIN": 21.291,
+          "MAX": 24.742,
+          "CURR": "Uruguayan peso   (UYU)"
+        }
+      ]
+    ],
+    "monthly": [
+      {
+        "Jan": [
+          {
+            "id": 0,
+            "min": 77.7348,
+            "max": 78.4048,
+            "avg": 78.11780999999999,
+            "month": "Jan",
+            "currency": "Algerian dinar   (DZD)"
+          },
+          {
+            "id": 1,
+            "min": 1.106684374,
+            "max": 1.147315282,
+            "avg": 1.1273039675263157,
+            "month": "Jan",
+            "currency": "Australian dollar   (AUD)"
+          },
+          {
+            "id": 2,
+            "min": 0.376,
+            "max": 0.376,
+            "avg": 0.37600000000000006,
+            "month": "Jan",
+            "currency": "Bahrain dinar   (BHD)"
+          },
+          {
+            "id": 3,
+            "min": 6.2842,
+            "max": 6.2842,
+            "avg": 6.2842,
+            "month": "Jan",
+            "currency": "Bolivar Fuerte   (VEF)"
+          },
+          {
+            "id": 4,
+            "min": 8.771929825,
+            "max": 9.132420091,
+            "avg": 8.9411884172,
+            "month": "Jan",
+            "currency": "Botswana pula   (BWP)"
+          },
+          {
+            "id": 5,
+            "min": 2.3426,
+            "max": 2.4397,
+            "avg": 2.3815650000000006,
+            "month": "Jan",
+            "currency": "Brazilian real   (BRL)"
+          },
+          {
+            "id": 6,
+            "min": 1.2639,
+            "max": 1.2815,
+            "avg": 1.2723833333333332,
+            "month": "Jan",
+            "currency": "Brunei dollar   (BND)"
+          },
+          {
+            "id": 7,
+            "min": 1.0614,
+            "max": 1.1171,
+            "avg": 1.09394,
+            "month": "Jan",
+            "currency": "Canadian dollar   (CAD)"
+          },
+          {
+            "id": 8,
+            "min": 524.61,
+            "max": 550.53,
+            "avg": 536.8029999999999,
+            "month": "Jan",
+            "currency": "Chilean peso   (CLP)"
+          },
+          {
+            "id": 9,
+            "min": 6.093,
+            "max": 6.1109,
+            "avg": 6.1039157894736835,
+            "month": "Jan",
+            "currency": "Chinese yuan   (CNY)"
+          },
+          {
+            "id": 10,
+            "min": 1924.79,
+            "max": 2013.17,
+            "avg": 1962.1072222222222,
+            "month": "Jan",
+            "currency": "Colombian peso   (COP)"
+          },
+          {
+            "id": 11,
+            "min": 20.048,
+            "max": 20.346,
+            "avg": 20.182250000000003,
+            "month": "Jan",
+            "currency": "Czech koruna   (CZK)"
+          },
+          {
+            "id": 12,
+            "min": 5.452,
+            "max": 5.5208,
+            "avg": 5.47963,
+            "month": "Jan",
+            "currency": "Danish krone   (DKK)"
+          },
+          {
+            "id": 13,
+            "min": 0.730620297,
+            "max": 0.739863865,
+            "avg": 0.7346355397619047,
+            "month": "Jan",
+            "currency": "Euro   (EUR)"
+          },
+          {
+            "id": 14,
+            "min": 216.89,
+            "max": 229.83,
+            "avg": 221.8435,
+            "month": "Jan",
+            "currency": "Hungarian forint   (HUF)"
+          },
+          {
+            "id": 15,
+            "min": 114.8,
+            "max": 117.1,
+            "avg": 115.78400000000003,
+            "month": "Jan",
+            "currency": "Icelandic krona   (ISK)"
+          },
+          {
+            "id": 16,
+            "min": 61.3518,
+            "max": 62.9898,
+            "avg": 62.13515263157895,
+            "month": "Jan",
+            "currency": "Indian rupee   (INR)"
+          },
+          {
+            "id": 17,
+            "min": 12047,
+            "max": 12267,
+            "avg": 12186.722222222223,
+            "month": "Jan",
+            "currency": "Indonesian rupiah   (IDR)"
+          },
+          {
+            "id": 18,
+            "min": 24773,
+            "max": 24866,
+            "avg": 24820.866666666665,
+            "month": "Jan",
+            "currency": "Iranian rial   (IRR)"
+          },
+          {
+            "id": 19,
+            "min": 3.483,
+            "max": 3.507,
+            "avg": 3.4926315789473685,
+            "month": "Jan",
+            "currency": "Israeli New Shekel   (ILS)"
+          },
+          {
+            "id": 20,
+            "min": 102.45,
+            "max": 104.93,
+            "avg": 103.935,
+            "month": "Jan",
+            "currency": "Japanese yen   (JPY)"
+          },
+          {
+            "id": 21,
+            "min": 154.06,
+            "max": 155.54,
+            "avg": 154.885,
+            "month": "Jan",
+            "currency": "Kazakhstani tenge   (KZT)"
+          },
+          {
+            "id": 22,
+            "min": 1050.4,
+            "max": 1084.1,
+            "avg": 1065.0055555555557,
+            "month": "Jan",
+            "currency": "Korean won   (KRW)"
+          },
+          {
+            "id": 23,
+            "min": 0.28215,
+            "max": 0.2829,
+            "avg": 0.28254,
+            "month": "Jan",
+            "currency": "Kuwaiti dinar   (KWD)"
+          },
+          {
+            "id": 24,
+            "min": 1.9324,
+            "max": 1.9324,
+            "avg": 1.9324000000000001,
+            "month": "Jan",
+            "currency": "Libyan dinar   (LYD)"
+          },
+          {
+            "id": 25,
+            "min": 3.2585,
+            "max": 3.346,
+            "avg": 3.303194117647059,
+            "month": "Jan",
+            "currency": "Malaysian ringgit   (MYR)"
+          },
+          {
+            "id": 26,
+            "min": 30.1133,
+            "max": 30.3501,
+            "avg": 30.22657647058824,
+            "month": "Jan",
+            "currency": "Mauritian rupee   (MUR)"
+          },
+          {
+            "id": 27,
+            "min": 12.9889,
+            "max": 13.493,
+            "avg": 13.218304999999997,
+            "month": "Jan",
+            "currency": "Mexican peso   (MXN)"
+          },
+          {
+            "id": 28,
+            "min": 98.44,
+            "max": 100.97,
+            "avg": 99.41105263157893,
+            "month": "Jan",
+            "currency": "Nepalese rupee   (NPR)"
+          },
+          {
+            "id": 29,
+            "min": 1.193602292,
+            "max": 1.224289912,
+            "avg": 1.207549357736842,
+            "month": "Jan",
+            "currency": "New Zealand dollar   (NZD)"
+          },
+          {
+            "id": 30,
+            "min": 6.0979,
+            "max": 6.297,
+            "avg": 6.16496,
+            "month": "Jan",
+            "currency": "Norwegian krone   (NOK)"
+          },
+          {
+            "id": 31,
+            "min": 0.3845,
+            "max": 0.3845,
+            "avg": 0.3845,
+            "month": "Jan",
+            "currency": "Omani rial   (OMR)"
+          },
+          {
+            "id": 32,
+            "min": 105.3897,
+            "max": 105.6187,
+            "avg": 105.50286842105263,
+            "month": "Jan",
+            "currency": "Pakistani rupee   (PKR)"
+          },
+          {
+            "id": 33,
+            "min": 2.797,
+            "max": 2.823,
+            "avg": 2.808263157894737,
+            "month": "Jan",
+            "currency": "Peruvian sol   (PEN)"
+          },
+          {
+            "id": 34,
+            "min": 44.343,
+            "max": 45.404,
+            "avg": 44.90889473684211,
+            "month": "Jan",
+            "currency": "Philippine peso   (PHP)"
+          },
+          {
+            "id": 35,
+            "min": 3.0315,
+            "max": 3.1288,
+            "avg": 3.068357894736842,
+            "month": "Jan",
+            "currency": "Polish zloty   (PLN)"
+          },
+          {
+            "id": 36,
+            "min": 3.64,
+            "max": 3.64,
+            "avg": 3.6399999999999997,
+            "month": "Jan",
+            "currency": "Qatari riyal   (QAR)"
+          },
+          {
+            "id": 37,
+            "min": 33.1204,
+            "max": 35.2448,
+            "avg": 33.95975333333333,
+            "month": "Jan",
+            "currency": "Russian ruble   (RUB)"
+          },
+          {
+            "id": 38,
+            "min": 3.75,
+            "max": 3.75,
+            "avg": 3.75,
+            "month": "Jan",
+            "currency": "Saudi Arabian riyal   (SAR)"
+          },
+          {
+            "id": 39,
+            "min": 1.2639,
+            "max": 1.2815,
+            "avg": 1.2721105263157895,
+            "month": "Jan",
+            "currency": "Singapore dollar   (SGD)"
+          },
+          {
+            "id": 40,
+            "min": 10.58695,
+            "max": 11.28015,
+            "avg": 10.893577500000001,
+            "month": "Jan",
+            "currency": "South African rand   (ZAR)"
+          },
+          {
+            "id": 41,
+            "min": 130.6575,
+            "max": 130.8216,
+            "avg": 130.7283277777778,
+            "month": "Jan",
+            "currency": "Sri Lankan rupee   (LKR)"
+          },
+          {
+            "id": 42,
+            "min": 6.4205,
+            "max": 6.5709,
+            "avg": 6.483426315789475,
+            "month": "Jan",
+            "currency": "Swedish krona   (SEK)"
+          },
+          {
+            "id": 43,
+            "min": 0.8928,
+            "max": 0.9111,
+            "avg": 0.90338,
+            "month": "Jan",
+            "currency": "Swiss franc   (CHF)"
+          },
+          {
+            "id": 44,
+            "min": 32.769,
+            "max": 33.105,
+            "avg": 32.952000000000005,
+            "month": "Jan",
+            "currency": "Thai baht   (THB)"
+          },
+          {
+            "id": 45,
+            "min": 6.3899,
+            "max": 6.4465,
+            "avg": 6.419647368421052,
+            "month": "Jan",
+            "currency": "Trinidadian dollar   (TTD)"
+          },
+          {
+            "id": 46,
+            "min": 1.6065,
+            "max": 1.6587,
+            "avg": 1.6385625,
+            "month": "Jan",
+            "currency": "Tunisian dinar   (TND)"
+          },
+          {
+            "id": 47,
+            "min": 3.6725,
+            "max": 3.6725,
+            "avg": 3.6725000000000003,
+            "month": "Jan",
+            "currency": "U.A.E. dirham   (AED)"
+          },
+          {
+            "id": 48,
+            "min": 0.601974476,
+            "max": 0.61218243,
+            "avg": 0.6070257433333333,
+            "month": "Jan",
+            "currency": "U.K. pound   (GBP)"
+          },
+          {
+            "id": 49,
+            "min": 1,
+            "max": 1,
+            "avg": 1,
+            "month": "Jan",
+            "currency": "U.S. dollar   (USD)"
+          },
+          {
+            "id": 50,
+            "min": 21.291,
+            "max": 22.288,
+            "avg": 21.665388888888888,
+            "month": "Jan",
+            "currency": "Uruguayan peso   (UYU)"
+          }
+        ],
+        "Feb": [
+          {
+            "id": 0,
+            "min": 77.4936,
+            "max": 78.398,
+            "avg": 77.90962222222223,
+            "month": "Feb",
+            "currency": "Algerian dinar   (DZD)"
+          },
+          {
+            "id": 1,
+            "min": 1.104118361,
+            "max": 1.142204455,
+            "avg": 1.115920859368421,
+            "month": "Feb",
+            "currency": "Australian dollar   (AUD)"
+          },
+          {
+            "id": 2,
+            "min": 0.376,
+            "max": 0.376,
+            "avg": 0.37600000000000006,
+            "month": "Feb",
+            "currency": "Bahrain dinar   (BHD)"
+          },
+          {
+            "id": 3,
+            "min": 6.2842,
+            "max": 6.2842,
+            "avg": 6.2842,
+            "month": "Feb",
+            "currency": "Bolivar Fuerte   (VEF)"
+          },
+          {
+            "id": 4,
+            "min": 8.833922261,
+            "max": 9.066183137,
+            "avg": 8.971365423263157,
+            "month": "Feb",
+            "currency": "Botswana pula   (BWP)"
+          },
+          {
+            "id": 5,
+            "min": 2.3367,
+            "max": 2.4263,
+            "avg": 2.3881105263157894,
+            "month": "Feb",
+            "currency": "Brazilian real   (BRL)"
+          },
+          {
+            "id": 6,
+            "min": 1.2617,
+            "max": 1.2779,
+            "avg": 1.2670368421052631,
+            "month": "Feb",
+            "currency": "Brunei dollar   (BND)"
+          },
+          {
+            "id": 7,
+            "min": 1.0953,
+            "max": 1.114,
+            "avg": 1.1055105263157894,
+            "month": "Feb",
+            "currency": "Canadian dollar   (CAD)"
+          },
+          {
+            "id": 8,
+            "min": 546.99,
+            "max": 563.32,
+            "avg": 554.6833333333333,
+            "month": "Feb",
+            "currency": "Chilean peso   (CLP)"
+          },
+          {
+            "id": 9,
+            "min": 6.1069,
+            "max": 6.1224,
+            "avg": 6.113266666666666,
+            "month": "Feb",
+            "currency": "Chinese yuan   (CNY)"
+          },
+          {
+            "id": 10,
+            "min": 2021.1,
+            "max": 2054.9,
+            "avg": 2041.405,
+            "month": "Feb",
+            "currency": "Colombian peso   (COP)"
+          },
+          {
+            "id": 11,
+            "min": 19.791,
+            "max": 20.399,
+            "avg": 20.098473684210525,
+            "month": "Feb",
+            "currency": "Czech koruna   (CZK)"
+          },
+          {
+            "id": 12,
+            "min": 5.4025,
+            "max": 5.5295,
+            "avg": 5.464552631578947,
+            "month": "Feb",
+            "currency": "Danish krone   (DKK)"
+          },
+          {
+            "id": 13,
+            "min": 0.723955694,
+            "max": 0.741015191,
+            "avg": 0.7322930358421054,
+            "month": "Feb",
+            "currency": "Euro   (EUR)"
+          },
+          {
+            "id": 14,
+            "min": 224.91,
+            "max": 230.59,
+            "avg": 227.1157894736842,
+            "month": "Feb",
+            "currency": "Hungarian forint   (HUF)"
+          },
+          {
+            "id": 15,
+            "min": 112.5,
+            "max": 115.82,
+            "avg": 114.1457894736842,
+            "month": "Feb",
+            "currency": "Icelandic krona   (ISK)"
+          },
+          {
+            "id": 16,
+            "min": 61.938,
+            "max": 62.6891,
+            "avg": 62.27192352941176,
+            "month": "Feb",
+            "currency": "Indian rupee   (INR)"
+          },
+          {
+            "id": 17,
+            "min": 11620,
+            "max": 12251,
+            "avg": 11946.631578947368,
+            "month": "Feb",
+            "currency": "Indonesian rupiah   (IDR)"
+          },
+          {
+            "id": 18,
+            "min": 24861,
+            "max": 24898,
+            "avg": 24882.5,
+            "month": "Feb",
+            "currency": "Iranian rial   (IRR)"
+          },
+          {
+            "id": 19,
+            "min": 3.496,
+            "max": 3.549,
+            "avg": 3.5190526315789477,
+            "month": "Feb",
+            "currency": "Israeli New Shekel   (ILS)"
+          },
+          {
+            "id": 20,
+            "min": 101.25,
+            "max": 102.58,
+            "avg": 102.1561111111111,
+            "month": "Feb",
+            "currency": "Japanese yen   (JPY)"
+          },
+          {
+            "id": 21,
+            "min": 155.46,
+            "max": 184.95,
+            "avg": 173.715,
+            "month": "Feb",
+            "currency": "Kazakhstani tenge   (KZT)"
+          },
+          {
+            "id": 22,
+            "min": 1060.5,
+            "max": 1086.1,
+            "avg": 1071.7947368421053,
+            "month": "Feb",
+            "currency": "Korean won   (KRW)"
+          },
+          {
+            "id": 23,
+            "min": 0.2816,
+            "max": 0.28285,
+            "avg": 0.28224642857142856,
+            "month": "Feb",
+            "currency": "Kuwaiti dinar   (KWD)"
+          },
+          {
+            "id": 24,
+            "min": 1.9324,
+            "max": 1.9324,
+            "avg": 1.9324000000000001,
+            "month": "Feb",
+            "currency": "Libyan dinar   (LYD)"
+          },
+          {
+            "id": 25,
+            "min": 3.276,
+            "max": 3.3413,
+            "avg": 3.308922222222222,
+            "month": "Feb",
+            "currency": "Malaysian ringgit   (MYR)"
+          },
+          {
+            "id": 26,
+            "min": 30.0902,
+            "max": 30.4014,
+            "avg": 30.227270588235296,
+            "month": "Feb",
+            "currency": "Mauritian rupee   (MUR)"
+          },
+          {
+            "id": 27,
+            "min": 13.209,
+            "max": 13.3928,
+            "avg": 13.286441176470587,
+            "month": "Feb",
+            "currency": "Mexican peso   (MXN)"
+          },
+          {
+            "id": 28,
+            "min": 98.95,
+            "max": 100.3,
+            "avg": 99.59235294117647,
+            "month": "Feb",
+            "currency": "Nepalese rupee   (NPR)"
+          },
+          {
+            "id": 29,
+            "min": 1.193887297,
+            "max": 1.237164419,
+            "avg": 1.2073527010555556,
+            "month": "Feb",
+            "currency": "New Zealand dollar   (NZD)"
+          },
+          {
+            "id": 30,
+            "min": 5.9907,
+            "max": 6.3022,
+            "avg": 6.124672222222222,
+            "month": "Feb",
+            "currency": "Norwegian krone   (NOK)"
+          },
+          {
+            "id": 31,
+            "min": 0.3845,
+            "max": 0.3845,
+            "avg": 0.3845,
+            "month": "Feb",
+            "currency": "Omani rial   (OMR)"
+          },
+          {
+            "id": 32,
+            "min": 104.9218,
+            "max": 105.5948,
+            "avg": 105.16389411764706,
+            "month": "Feb",
+            "currency": "Pakistani rupee   (PKR)"
+          },
+          {
+            "id": 33,
+            "min": 2.802,
+            "max": 2.824,
+            "avg": 2.8131764705882354,
+            "month": "Feb",
+            "currency": "Peruvian sol   (PEN)"
+          },
+          {
+            "id": 34,
+            "min": 44.523,
+            "max": 45.406,
+            "avg": 44.90157894736842,
+            "month": "Feb",
+            "currency": "Philippine peso   (PHP)"
+          },
+          {
+            "id": 35,
+            "min": 3.0254,
+            "max": 3.137,
+            "avg": 3.058884210526316,
+            "month": "Feb",
+            "currency": "Polish zloty   (PLN)"
+          },
+          {
+            "id": 36,
+            "min": 3.64,
+            "max": 3.64,
+            "avg": 3.6399999999999997,
+            "month": "Feb",
+            "currency": "Qatari riyal   (QAR)"
+          },
+          {
+            "id": 37,
+            "min": 34.6044,
+            "max": 36.1847,
+            "avg": 35.30462631578948,
+            "month": "Feb",
+            "currency": "Russian ruble   (RUB)"
+          },
+          {
+            "id": 38,
+            "min": 3.75,
+            "max": 3.75,
+            "avg": 3.75,
+            "month": "Feb",
+            "currency": "Saudi Arabian riyal   (SAR)"
+          },
+          {
+            "id": 39,
+            "min": 1.2617,
+            "max": 1.2779,
+            "avg": 1.2670368421052631,
+            "month": "Feb",
+            "currency": "Singapore dollar   (SGD)"
+          },
+          {
+            "id": 40,
+            "min": 10.713,
+            "max": 11.15165,
+            "avg": 10.981044736842104,
+            "month": "Feb",
+            "currency": "South African rand   (ZAR)"
+          },
+          {
+            "id": 41,
+            "min": 130.6471,
+            "max": 131.0197,
+            "avg": 130.81935625,
+            "month": "Feb",
+            "currency": "Sri Lankan rupee   (LKR)"
+          },
+          {
+            "id": 42,
+            "min": 6.4382,
+            "max": 6.5652,
+            "avg": 6.500552631578948,
+            "month": "Feb",
+            "currency": "Swedish krona   (SEK)"
+          },
+          {
+            "id": 43,
+            "min": 0.8818,
+            "max": 0.9046,
+            "avg": 0.894463157894737,
+            "month": "Feb",
+            "currency": "Swiss franc   (CHF)"
+          },
+          {
+            "id": 44,
+            "min": 32.413,
+            "max": 32.909,
+            "avg": 32.66977777777778,
+            "month": "Feb",
+            "currency": "Thai baht   (THB)"
+          },
+          {
+            "id": 45,
+            "min": 6.4064,
+            "max": 6.4327,
+            "avg": 6.419573684210526,
+            "month": "Feb",
+            "currency": "Trinidadian dollar   (TTD)"
+          },
+          {
+            "id": 46,
+            "min": 1.5806,
+            "max": 1.6083,
+            "avg": 1.5912666666666664,
+            "month": "Feb",
+            "currency": "Tunisian dinar   (TND)"
+          },
+          {
+            "id": 47,
+            "min": 3.6725,
+            "max": 3.6725,
+            "avg": 3.6725000000000003,
+            "month": "Feb",
+            "currency": "U.A.E. dirham   (AED)"
+          },
+          {
+            "id": 48,
+            "min": 0.598515681,
+            "max": 0.61447708,
+            "avg": 0.6046200619473684,
+            "month": "Feb",
+            "currency": "U.K. pound   (GBP)"
+          },
+          {
+            "id": 49,
+            "min": 1,
+            "max": 1,
+            "avg": 1,
+            "month": "Feb",
+            "currency": "U.S. dollar   (USD)"
+          },
+          {
+            "id": 50,
+            "min": 22.104,
+            "max": 22.595,
+            "avg": 22.319111111111113,
+            "month": "Feb",
+            "currency": "Uruguayan peso   (UYU)"
+          }
+        ],
+        "Mar": [
+          {
+            "id": 0,
+            "min": 77.1045,
+            "max": 78.4945,
+            "avg": 77.68586111111111,
+            "month": "Mar",
+            "currency": "Algerian dinar   (DZD)"
+          },
+          {
+            "id": 1,
+            "min": 1.078748652,
+            "max": 1.119820829,
+            "avg": 1.1013941474210527,
+            "month": "Mar",
+            "currency": "Australian dollar   (AUD)"
+          },
+          {
+            "id": 2,
+            "min": 0.376,
+            "max": 0.376,
+            "avg": 0.37600000000000006,
+            "month": "Mar",
+            "currency": "Bahrain dinar   (BHD)"
+          },
+          {
+            "id": 3,
+            "min": 6.2842,
+            "max": 6.2842,
+            "avg": 6.2842,
+            "month": "Mar",
+            "currency": "Bolivar Fuerte   (VEF)"
+          },
+          {
+            "id": 4,
+            "min": 8.771929825,
+            "max": 8.944543828,
+            "avg": 8.850627489578947,
+            "month": "Mar",
+            "currency": "Botswana pula   (BWP)"
+          },
+          {
+            "id": 5,
+            "min": 2.2603,
+            "max": 2.3649,
+            "avg": 2.3281947368421054,
+            "month": "Mar",
+            "currency": "Brazilian real   (BRL)"
+          },
+          {
+            "id": 6,
+            "min": 1.2605,
+            "max": 1.277,
+            "avg": 1.2675157894736842,
+            "month": "Mar",
+            "currency": "Brunei dollar   (BND)"
+          },
+          {
+            "id": 7,
+            "min": 1.0966,
+            "max": 1.1251,
+            "avg": 1.1110842105263157,
+            "month": "Mar",
+            "currency": "Canadian dollar   (CAD)"
+          },
+          {
+            "id": 8,
+            "min": 550.53,
+            "max": 573.24,
+            "avg": 563.6473684210526,
+            "month": "Mar",
+            "currency": "Chilean peso   (CLP)"
+          },
+          {
+            "id": 9,
+            "min": 6.1201,
+            "max": 6.1521,
+            "avg": 6.136905263157895,
+            "month": "Mar",
+            "currency": "Chinese yuan   (CNY)"
+          },
+          {
+            "id": 10,
+            "min": 1965.32,
+            "max": 2052.51,
+            "avg": 2018.2305263157893,
+            "month": "Mar",
+            "currency": "Colombian peso   (COP)"
+          },
+          {
+            "id": 11,
+            "min": 19.618,
+            "max": 19.975,
+            "avg": 19.821315789473687,
+            "month": "Mar",
+            "currency": "Czech koruna   (CZK)"
+          },
+          {
+            "id": 12,
+            "min": 5.3532,
+            "max": 5.4345,
+            "avg": 5.402533333333333,
+            "month": "Mar",
+            "currency": "Danish krone   (DKK)"
+          },
+          {
+            "id": 13,
+            "min": 0.717257208,
+            "max": 0.728226041,
+            "avg": 0.723473527095238,
+            "month": "Mar",
+            "currency": "Euro   (EUR)"
+          },
+          {
+            "id": 14,
+            "min": 223.14,
+            "max": 227.23,
+            "avg": 225.40421052631575,
+            "month": "Mar",
+            "currency": "Hungarian forint   (HUF)"
+          },
+          {
+            "id": 15,
+            "min": 111.84,
+            "max": 114,
+            "avg": 112.93894736842104,
+            "month": "Mar",
+            "currency": "Icelandic krona   (ISK)"
+          },
+          {
+            "id": 16,
+            "min": 60.0998,
+            "max": 61.9045,
+            "avg": 60.966961111111104,
+            "month": "Mar",
+            "currency": "Indian rupee   (INR)"
+          },
+          {
+            "id": 17,
+            "min": 11282,
+            "max": 11647,
+            "avg": 11426.277777777777,
+            "month": "Mar",
+            "currency": "Indonesian rupiah   (IDR)"
+          },
+          {
+            "id": 18,
+            "min": 24948,
+            "max": 25444,
+            "avg": 25085.2,
+            "month": "Mar",
+            "currency": "Iranian rial   (IRR)"
+          },
+          {
+            "id": 19,
+            "min": 3.462,
+            "max": 3.504,
+            "avg": 3.4859166666666663,
+            "month": "Mar",
+            "currency": "Israeli New Shekel   (ILS)"
+          },
+          {
+            "id": 20,
+            "min": 101.3,
+            "max": 103.3,
+            "avg": 102.27250000000001,
+            "month": "Mar",
+            "currency": "Japanese yen   (JPY)"
+          },
+          {
+            "id": 21,
+            "min": 181.78,
+            "max": 182.46,
+            "avg": 182.07111111111112,
+            "month": "Mar",
+            "currency": "Kazakhstani tenge   (KZT)"
+          },
+          {
+            "id": 22,
+            "min": 1062.6,
+            "max": 1080.3,
+            "avg": 1071.0736842105264,
+            "month": "Mar",
+            "currency": "Korean won   (KRW)"
+          },
+          {
+            "id": 23,
+            "min": 0.281,
+            "max": 0.2817,
+            "avg": 0.2813815789473684,
+            "month": "Mar",
+            "currency": "Kuwaiti dinar   (KWD)"
+          },
+          {
+            "id": 24,
+            "min": 1.9324,
+            "max": 1.9324,
+            "avg": 1.9324000000000001,
+            "month": "Mar",
+            "currency": "Libyan dinar   (LYD)"
+          },
+          {
+            "id": 25,
+            "min": 3.257,
+            "max": 3.31,
+            "avg": 3.2833526315789476,
+            "month": "Mar",
+            "currency": "Malaysian ringgit   (MYR)"
+          },
+          {
+            "id": 26,
+            "min": 29.974,
+            "max": 30.0923,
+            "avg": 30.032041176470585,
+            "month": "Mar",
+            "currency": "Mauritian rupee   (MUR)"
+          },
+          {
+            "id": 27,
+            "min": 13.0549,
+            "max": 13.2752,
+            "avg": 13.184929411764706,
+            "month": "Mar",
+            "currency": "Mexican peso   (MXN)"
+          },
+          {
+            "id": 28,
+            "min": 95.86,
+            "max": 99.27,
+            "avg": 97.62315789473683,
+            "month": "Mar",
+            "currency": "Nepalese rupee   (NPR)"
+          },
+          {
+            "id": 29,
+            "min": 1.153269519,
+            "max": 1.19474313,
+            "avg": 1.1732654845789472,
+            "month": "Mar",
+            "currency": "New Zealand dollar   (NZD)"
+          },
+          {
+            "id": 30,
+            "min": 5.9228,
+            "max": 6.0823,
+            "avg": 5.998110526315791,
+            "month": "Mar",
+            "currency": "Norwegian krone   (NOK)"
+          },
+          {
+            "id": 31,
+            "min": 0.3845,
+            "max": 0.3845,
+            "avg": 0.3845,
+            "month": "Mar",
+            "currency": "Omani rial   (OMR)"
+          },
+          {
+            "id": 32,
+            "min": 97.8501,
+            "max": 104.9457,
+            "avg": 99.87446315789474,
+            "month": "Mar",
+            "currency": "Pakistani rupee   (PKR)"
+          },
+          {
+            "id": 33,
+            "min": 2.798,
+            "max": 2.813,
+            "avg": 2.8060555555555555,
+            "month": "Mar",
+            "currency": "Peruvian sol   (PEN)"
+          },
+          {
+            "id": 34,
+            "min": 44.436,
+            "max": 45.236,
+            "avg": 44.80447368421053,
+            "month": "Mar",
+            "currency": "Philippine peso   (PHP)"
+          },
+          {
+            "id": 35,
+            "min": 3.0185,
+            "max": 3.0508,
+            "avg": 3.038915789473684,
+            "month": "Mar",
+            "currency": "Polish zloty   (PLN)"
+          },
+          {
+            "id": 36,
+            "min": 3.64,
+            "max": 3.64,
+            "avg": 3.6399999999999997,
+            "month": "Mar",
+            "currency": "Qatari riyal   (QAR)"
+          },
+          {
+            "id": 37,
+            "min": 35.4494,
+            "max": 36.6391,
+            "avg": 36.13127777777778,
+            "month": "Mar",
+            "currency": "Russian ruble   (RUB)"
+          },
+          {
+            "id": 38,
+            "min": 3.75,
+            "max": 3.75,
+            "avg": 3.75,
+            "month": "Mar",
+            "currency": "Saudi Arabian riyal   (SAR)"
+          },
+          {
+            "id": 39,
+            "min": 1.2605,
+            "max": 1.277,
+            "avg": 1.2675157894736842,
+            "month": "Mar",
+            "currency": "Singapore dollar   (SGD)"
+          },
+          {
+            "id": 40,
+            "min": 10.5792,
+            "max": 10.9489,
+            "avg": 10.74582777777778,
+            "month": "Mar",
+            "currency": "South African rand   (ZAR)"
+          },
+          {
+            "id": 41,
+            "min": 130.5025,
+            "max": 130.6949,
+            "avg": 130.6139947368421,
+            "month": "Mar",
+            "currency": "Sri Lankan rupee   (LKR)"
+          },
+          {
+            "id": 42,
+            "min": 6.3392,
+            "max": 6.5068,
+            "avg": 6.413947368421051,
+            "month": "Mar",
+            "currency": "Swedish krona   (SEK)"
+          },
+          {
+            "id": 43,
+            "min": 0.871,
+            "max": 0.8878,
+            "avg": 0.8812684210526316,
+            "month": "Mar",
+            "currency": "Swiss franc   (CHF)"
+          },
+          {
+            "id": 44,
+            "min": 32.125,
+            "max": 32.597,
+            "avg": 32.39152631578948,
+            "month": "Mar",
+            "currency": "Thai baht   (THB)"
+          },
+          {
+            "id": 45,
+            "min": 6.3996,
+            "max": 6.4527,
+            "avg": 6.429482352941176,
+            "month": "Mar",
+            "currency": "Trinidadian dollar   (TTD)"
+          },
+          {
+            "id": 46,
+            "min": 1.5698,
+            "max": 1.5862,
+            "avg": 1.5773333333333335,
+            "month": "Mar",
+            "currency": "Tunisian dinar   (TND)"
+          },
+          {
+            "id": 47,
+            "min": 3.6725,
+            "max": 3.6725,
+            "avg": 3.6725000000000003,
+            "month": "Mar",
+            "currency": "U.A.E. dirham   (AED)"
+          },
+          {
+            "id": 48,
+            "min": 0.596480763,
+            "max": 0.606391365,
+            "avg": 0.6015685743333333,
+            "month": "Mar",
+            "currency": "U.K. pound   (GBP)"
+          },
+          {
+            "id": 49,
+            "min": 1,
+            "max": 1,
+            "avg": 1,
+            "month": "Mar",
+            "currency": "U.S. dollar   (USD)"
+          },
+          {
+            "id": 50,
+            "min": 22.206,
+            "max": 22.889,
+            "avg": 22.61525,
+            "month": "Mar",
+            "currency": "Uruguayan peso   (UYU)"
+          }
+        ],
+        "Apr": [
+          {
+            "id": 0,
+            "min": 78.4241,
+            "max": 78.9092,
+            "avg": 78.61984285714286,
+            "month": "Apr",
+            "currency": "Algerian dinar   (DZD)"
+          },
+          {
+            "id": 1,
+            "min": 1.062247716,
+            "max": 1.084716347,
+            "avg": 1.0737226084736842,
+            "month": "Apr",
+            "currency": "Australian dollar   (AUD)"
+          },
+          {
+            "id": 2,
+            "min": 0.376,
+            "max": 0.376,
+            "avg": 0.37600000000000006,
+            "month": "Apr",
+            "currency": "Bahrain dinar   (BHD)"
+          },
+          {
+            "id": 3,
+            "min": 6.2842,
+            "max": 6.2842,
+            "avg": 6.2842,
+            "month": "Apr",
+            "currency": "Bolivar Fuerte   (VEF)"
+          },
+          {
+            "id": 4,
+            "min": 8.680555556,
+            "max": 8.818342152,
+            "avg": 8.761680636,
+            "month": "Apr",
+            "currency": "Botswana pula   (BWP)"
+          },
+          {
+            "id": 5,
+            "min": 2.1974,
+            "max": 2.2811,
+            "avg": 2.2347904761904767,
+            "month": "Apr",
+            "currency": "Brazilian real   (BRL)"
+          },
+          {
+            "id": 6,
+            "min": 1.2485,
+            "max": 1.2639,
+            "avg": 1.2557684210526314,
+            "month": "Apr",
+            "currency": "Brunei dollar   (BND)"
+          },
+          {
+            "id": 7,
+            "min": 1.0903,
+            "max": 1.1042,
+            "avg": 1.0991285714285715,
+            "month": "Apr",
+            "currency": "Canadian dollar   (CAD)"
+          },
+          {
+            "id": 8,
+            "min": 544.96,
+            "max": 563.76,
+            "avg": 554.6409523809524,
+            "month": "Apr",
+            "currency": "Chilean peso   (CLP)"
+          },
+          {
+            "id": 9,
+            "min": 6.149,
+            "max": 6.161,
+            "avg": 6.15511,
+            "month": "Apr",
+            "currency": "Chinese yuan   (CNY)"
+          },
+          {
+            "id": 10,
+            "min": 1920.93,
+            "max": 1969.45,
+            "avg": 1938.966,
+            "month": "Apr",
+            "currency": "Colombian peso   (COP)"
+          },
+          {
+            "id": 11,
+            "min": 19.776,
+            "max": 20.026,
+            "avg": 19.874000000000002,
+            "month": "Apr",
+            "currency": "Czech koruna   (CZK)"
+          },
+          {
+            "id": 12,
+            "min": 5.3822,
+            "max": 5.4491,
+            "avg": 5.4058947368421055,
+            "month": "Apr",
+            "currency": "Danish krone   (DKK)"
+          },
+          {
+            "id": 13,
+            "min": 0.720876586,
+            "max": 0.729927007,
+            "avg": 0.7239893648,
+            "month": "Apr",
+            "currency": "Euro   (EUR)"
+          },
+          {
+            "id": 14,
+            "min": 220.33,
+            "max": 223.92,
+            "avg": 222.50809523809525,
+            "month": "Apr",
+            "currency": "Hungarian forint   (HUF)"
+          },
+          {
+            "id": 15,
+            "min": 111.61,
+            "max": 113.22,
+            "avg": 112.33777777777777,
+            "month": "Apr",
+            "currency": "Icelandic krona   (ISK)"
+          },
+          {
+            "id": 16,
+            "min": 59.6463,
+            "max": 61.1163,
+            "avg": 60.35662352941176,
+            "month": "Apr",
+            "currency": "Indian rupee   (INR)"
+          },
+          {
+            "id": 17,
+            "min": 11271,
+            "max": 11608,
+            "avg": 11435.75,
+            "month": "Apr",
+            "currency": "Indonesian rupiah   (IDR)"
+          },
+          {
+            "id": 18,
+            "min": 25403,
+            "max": 25517,
+            "avg": 25498.466666666667,
+            "month": "Apr",
+            "currency": "Iranian rial   (IRR)"
+          },
+          {
+            "id": 19,
+            "min": 3.461,
+            "max": 3.493,
+            "avg": 3.4757777777777776,
+            "month": "Apr",
+            "currency": "Israeli New Shekel   (ILS)"
+          },
+          {
+            "id": 20,
+            "min": 101.45,
+            "max": 103.9,
+            "avg": 102.56380952380952,
+            "month": "Apr",
+            "currency": "Japanese yen   (JPY)"
+          },
+          {
+            "id": 21,
+            "min": 182.01,
+            "max": 182.07,
+            "avg": 182.03350000000003,
+            "month": "Apr",
+            "currency": "Kazakhstani tenge   (KZT)"
+          },
+          {
+            "id": 22,
+            "min": 1031.7,
+            "max": 1066.1,
+            "avg": 1044.5581818181818,
+            "month": "Apr",
+            "currency": "Korean won   (KRW)"
+          },
+          {
+            "id": 23,
+            "min": 0.281,
+            "max": 0.2819,
+            "avg": 0.28131000000000006,
+            "month": "Apr",
+            "currency": "Kuwaiti dinar   (KWD)"
+          },
+          {
+            "id": 24,
+            "min": 1.9324,
+            "max": 1.9324,
+            "avg": 1.9324000000000001,
+            "month": "Apr",
+            "currency": "Libyan dinar   (LYD)"
+          },
+          {
+            "id": 25,
+            "min": 3.2305,
+            "max": 3.285,
+            "avg": 3.257868181818182,
+            "month": "Apr",
+            "currency": "Malaysian ringgit   (MYR)"
+          },
+          {
+            "id": 26,
+            "min": 29.9671,
+            "max": 30.1412,
+            "avg": 30.042923809523813,
+            "month": "Apr",
+            "currency": "Mauritian rupee   (MUR)"
+          },
+          {
+            "id": 27,
+            "min": 12.9642,
+            "max": 13.1371,
+            "avg": 13.074784210526317,
+            "month": "Apr",
+            "currency": "Mexican peso   (MXN)"
+          },
+          {
+            "id": 28,
+            "min": 95.85,
+            "max": 97.72,
+            "avg": 96.54,
+            "month": "Apr",
+            "currency": "Nepalese rupee   (NPR)"
+          },
+          {
+            "id": 29,
+            "min": 1.147315282,
+            "max": 1.170411985,
+            "avg": 1.1600898025789474,
+            "month": "Apr",
+            "currency": "New Zealand dollar   (NZD)"
+          },
+          {
+            "id": 30,
+            "min": 5.9249,
+            "max": 6.0049,
+            "avg": 5.972968421052633,
+            "month": "Apr",
+            "currency": "Norwegian krone   (NOK)"
+          },
+          {
+            "id": 31,
+            "min": 0.3845,
+            "max": 0.3845,
+            "avg": 0.3845,
+            "month": "Apr",
+            "currency": "Omani rial   (OMR)"
+          },
+          {
+            "id": 32,
+            "min": 96.1064,
+            "max": 98.7002,
+            "avg": 97.68148571428571,
+            "month": "Apr",
+            "currency": "Pakistani rupee   (PKR)"
+          },
+          {
+            "id": 33,
+            "min": 2.774,
+            "max": 2.811,
+            "avg": 2.792842105263158,
+            "month": "Apr",
+            "currency": "Peruvian sol   (PEN)"
+          },
+          {
+            "id": 34,
+            "min": 44.371,
+            "max": 45.003,
+            "avg": 44.64157894736842,
+            "month": "Apr",
+            "currency": "Philippine peso   (PHP)"
+          },
+          {
+            "id": 35,
+            "min": 3.0086,
+            "max": 3.0446,
+            "avg": 3.029919047619047,
+            "month": "Apr",
+            "currency": "Polish zloty   (PLN)"
+          },
+          {
+            "id": 36,
+            "min": 3.64,
+            "max": 3.64,
+            "avg": 3.6399999999999997,
+            "month": "Apr",
+            "currency": "Qatari riyal   (QAR)"
+          },
+          {
+            "id": 37,
+            "min": 35.024,
+            "max": 36.0813,
+            "avg": 35.673063636363636,
+            "month": "Apr",
+            "currency": "Russian ruble   (RUB)"
+          },
+          {
+            "id": 38,
+            "min": 3.75,
+            "max": 3.75,
+            "avg": 3.75,
+            "month": "Apr",
+            "currency": "Saudi Arabian riyal   (SAR)"
+          },
+          {
+            "id": 39,
+            "min": 1.2485,
+            "max": 1.2639,
+            "avg": 1.2558599999999998,
+            "month": "Apr",
+            "currency": "Singapore dollar   (SGD)"
+          },
+          {
+            "id": 40,
+            "min": 10.406,
+            "max": 10.6475,
+            "avg": 10.550126315789473,
+            "month": "Apr",
+            "currency": "South African rand   (ZAR)"
+          },
+          {
+            "id": 41,
+            "min": 130.5624,
+            "max": 130.7,
+            "avg": 130.6222,
+            "month": "Apr",
+            "currency": "Sri Lankan rupee   (LKR)"
+          },
+          {
+            "id": 42,
+            "min": 6.4508,
+            "max": 6.6051,
+            "avg": 6.539850000000001,
+            "month": "Apr",
+            "currency": "Swedish krona   (SEK)"
+          },
+          {
+            "id": 43,
+            "min": 0.8756,
+            "max": 0.8926,
+            "avg": 0.8823190476190477,
+            "month": "Apr",
+            "currency": "Swiss franc   (CHF)"
+          },
+          {
+            "id": 44,
+            "min": 32.185,
+            "max": 32.538,
+            "avg": 32.32083333333333,
+            "month": "Apr",
+            "currency": "Thai baht   (THB)"
+          },
+          {
+            "id": 45,
+            "min": 6.4322,
+            "max": 6.4628,
+            "avg": 6.447016666666667,
+            "month": "Apr",
+            "currency": "Trinidadian dollar   (TTD)"
+          },
+          {
+            "id": 46,
+            "min": 1.57985,
+            "max": 1.5965,
+            "avg": 1.5885463157894737,
+            "month": "Apr",
+            "currency": "Tunisian dinar   (TND)"
+          },
+          {
+            "id": 47,
+            "min": 3.6725,
+            "max": 3.6725,
+            "avg": 3.6725000000000003,
+            "month": "Apr",
+            "currency": "U.A.E. dirham   (AED)"
+          },
+          {
+            "id": 48,
+            "min": 0.593824228,
+            "max": 0.603063563,
+            "avg": 0.5974473826000002,
+            "month": "Apr",
+            "currency": "U.K. pound   (GBP)"
+          },
+          {
+            "id": 49,
+            "min": 1,
+            "max": 1,
+            "avg": 1,
+            "month": "Apr",
+            "currency": "U.S. dollar   (USD)"
+          },
+          {
+            "id": 50,
+            "min": 22.6,
+            "max": 23.027,
+            "avg": 22.81305,
+            "month": "Apr",
+            "currency": "Uruguayan peso   (UYU)"
+          }
+        ],
+        "May": [
+          {
+            "id": 0,
+            "min": 78.3443,
+            "max": 79.178,
+            "avg": 78.82401999999999,
+            "month": "May",
+            "currency": "Algerian dinar   (DZD)"
+          },
+          {
+            "id": 1,
+            "min": 1.063716626,
+            "max": 1.082837033,
+            "avg": 1.0738458815238094,
+            "month": "May",
+            "currency": "Australian dollar   (AUD)"
+          },
+          {
+            "id": 2,
+            "min": 0.376,
+            "max": 0.376,
+            "avg": 0.37600000000000006,
+            "month": "May",
+            "currency": "Bahrain dinar   (BHD)"
+          },
+          {
+            "id": 3,
+            "min": 6.2842,
+            "max": 6.2842,
+            "avg": 6.2842,
+            "month": "May",
+            "currency": "Bolivar Fuerte   (VEF)"
+          },
+          {
+            "id": 4,
+            "min": 8.643042351,
+            "max": 8.756567426,
+            "avg": 8.700540160000001,
+            "month": "May",
+            "currency": "Botswana pula   (BWP)"
+          },
+          {
+            "id": 5,
+            "min": 2.2101,
+            "max": 2.2405,
+            "avg": 2.2215619047619044,
+            "month": "May",
+            "currency": "Brazilian real   (BRL)"
+          },
+          {
+            "id": 6,
+            "min": 1.2476,
+            "max": 1.2553,
+            "avg": 1.2514722222222219,
+            "month": "May",
+            "currency": "Brunei dollar   (BND)"
+          },
+          {
+            "id": 7,
+            "min": 1.0837,
+            "max": 1.0973,
+            "avg": 1.0895700000000001,
+            "month": "May",
+            "currency": "Canadian dollar   (CAD)"
+          },
+          {
+            "id": 8,
+            "min": 548.04,
+            "max": 566.88,
+            "avg": 555.7204761904762,
+            "month": "May",
+            "currency": "Chilean peso   (CLP)"
+          },
+          {
+            "id": 9,
+            "min": 6.1542,
+            "max": 6.1705,
+            "avg": 6.163231578947368,
+            "month": "May",
+            "currency": "Chinese yuan   (CNY)"
+          },
+          {
+            "id": 10,
+            "min": 1901.51,
+            "max": 1933.46,
+            "avg": 1917.2747368421053,
+            "month": "May",
+            "currency": "Colombian peso   (COP)"
+          },
+          {
+            "id": 11,
+            "min": 19.677,
+            "max": 20.187,
+            "avg": 19.99352631578947,
+            "month": "May",
+            "currency": "Czech koruna   (CZK)"
+          },
+          {
+            "id": 12,
+            "min": 5.3492,
+            "max": 5.4843,
+            "avg": 5.424383333333333,
+            "month": "May",
+            "currency": "Danish krone   (DKK)"
+          },
+          {
+            "id": 13,
+            "min": 0.716691751,
+            "max": 0.734915852,
+            "avg": 0.72800949195,
+            "month": "May",
+            "currency": "Euro   (EUR)"
+          },
+          {
+            "id": 14,
+            "min": 218.1,
+            "max": 223.35,
+            "avg": 221.58684210526314,
+            "month": "May",
+            "currency": "Hungarian forint   (HUF)"
+          },
+          {
+            "id": 15,
+            "min": 111.72,
+            "max": 113.49,
+            "avg": 112.66052631578945,
+            "month": "May",
+            "currency": "Icelandic krona   (ISK)"
+          },
+          {
+            "id": 16,
+            "min": 58.426,
+            "max": 60.225,
+            "avg": 59.342789473684206,
+            "month": "May",
+            "currency": "Indian rupee   (INR)"
+          },
+          {
+            "id": 17,
+            "min": 11351,
+            "max": 11624,
+            "avg": 11519.64705882353,
+            "month": "May",
+            "currency": "Indonesian rupiah   (IDR)"
+          },
+          {
+            "id": 18,
+            "min": 25501,
+            "max": 25582,
+            "avg": 25533.571428571428,
+            "month": "May",
+            "currency": "Iranian rial   (IRR)"
+          },
+          {
+            "id": 19,
+            "min": 3.447,
+            "max": 3.49,
+            "avg": 3.46535,
+            "month": "May",
+            "currency": "Israeli New Shekel   (ILS)"
+          },
+          {
+            "id": 20,
+            "min": 100.95,
+            "max": 102.34,
+            "avg": 101.7821052631579,
+            "month": "May",
+            "currency": "Japanese yen   (JPY)"
+          },
+          {
+            "id": 21,
+            "min": 182.01,
+            "max": 183.96,
+            "avg": 182.40619047619046,
+            "month": "May",
+            "currency": "Kazakhstani tenge   (KZT)"
+          },
+          {
+            "id": 22,
+            "min": 1021.6,
+            "max": 1032.2,
+            "avg": 1025.378947368421,
+            "month": "May",
+            "currency": "Korean won   (KRW)"
+          },
+          {
+            "id": 23,
+            "min": 0.2805,
+            "max": 0.28185,
+            "avg": 0.28121315789473683,
+            "month": "May",
+            "currency": "Kuwaiti dinar   (KWD)"
+          },
+          {
+            "id": 24,
+            "min": 1.9324,
+            "max": 1.9324,
+            "avg": 1.9324000000000001,
+            "month": "May",
+            "currency": "Libyan dinar   (LYD)"
+          },
+          {
+            "id": 25,
+            "min": 3.2065,
+            "max": 3.269,
+            "avg": 3.2295947368421047,
+            "month": "May",
+            "currency": "Malaysian ringgit   (MYR)"
+          },
+          {
+            "id": 26,
+            "min": 29.9011,
+            "max": 30.253,
+            "avg": 30.091050000000003,
+            "month": "May",
+            "currency": "Mauritian rupee   (MUR)"
+          },
+          {
+            "id": 27,
+            "min": 12.8462,
+            "max": 13.0129,
+            "avg": 12.927890000000001,
+            "month": "May",
+            "currency": "Mexican peso   (MXN)"
+          },
+          {
+            "id": 28,
+            "min": 93.56,
+            "max": 96.54,
+            "avg": 95.155,
+            "month": "May",
+            "currency": "Nepalese rupee   (NPR)"
+          },
+          {
+            "id": 29,
+            "min": 1.14955742,
+            "max": 1.177301625,
+            "avg": 1.1611406767142856,
+            "month": "May",
+            "currency": "New Zealand dollar   (NZD)"
+          },
+          {
+            "id": 30,
+            "min": 5.8611,
+            "max": 5.9841,
+            "avg": 5.933726315789474,
+            "month": "May",
+            "currency": "Norwegian krone   (NOK)"
+          },
+          {
+            "id": 31,
+            "min": 0.3845,
+            "max": 0.3845,
+            "avg": 0.3845,
+            "month": "May",
+            "currency": "Omani rial   (OMR)"
+          },
+          {
+            "id": 32,
+            "min": 98.4613,
+            "max": 98.8677,
+            "avg": 98.729095,
+            "month": "May",
+            "currency": "Pakistani rupee   (PKR)"
+          },
+          {
+            "id": 33,
+            "min": 2.76,
+            "max": 2.805,
+            "avg": 2.7862631578947368,
+            "month": "May",
+            "currency": "Peruvian sol   (PEN)"
+          },
+          {
+            "id": 34,
+            "min": 43.627,
+            "max": 44.541,
+            "avg": 43.9388,
+            "month": "May",
+            "currency": "Philippine peso   (PHP)"
+          },
+          {
+            "id": 35,
+            "min": 3.0042,
+            "max": 3.062,
+            "avg": 3.041715,
+            "month": "May",
+            "currency": "Polish zloty   (PLN)"
+          },
+          {
+            "id": 36,
+            "min": 3.64,
+            "max": 3.64,
+            "avg": 3.6399999999999997,
+            "month": "May",
+            "currency": "Qatari riyal   (QAR)"
+          },
+          {
+            "id": 37,
+            "min": 34.2571,
+            "max": 35.8381,
+            "avg": 34.87347368421053,
+            "month": "May",
+            "currency": "Russian ruble   (RUB)"
+          },
+          {
+            "id": 38,
+            "min": 3.75,
+            "max": 3.75,
+            "avg": 3.75,
+            "month": "May",
+            "currency": "Saudi Arabian riyal   (SAR)"
+          },
+          {
+            "id": 39,
+            "min": 1.2476,
+            "max": 1.2553,
+            "avg": 1.2514888888888889,
+            "month": "May",
+            "currency": "Singapore dollar   (SGD)"
+          },
+          {
+            "id": 40,
+            "min": 10.30985,
+            "max": 10.5428,
+            "avg": 10.413463157894736,
+            "month": "May",
+            "currency": "South African rand   (ZAR)"
+          },
+          {
+            "id": 41,
+            "min": 130.3515,
+            "max": 130.6,
+            "avg": 130.44987058823529,
+            "month": "May",
+            "currency": "Sri Lankan rupee   (LKR)"
+          },
+          {
+            "id": 42,
+            "min": 6.4895,
+            "max": 6.6563,
+            "avg": 6.563678947368421,
+            "month": "May",
+            "currency": "Swedish krona   (SEK)"
+          },
+          {
+            "id": 43,
+            "min": 0.8734,
+            "max": 0.8978,
+            "avg": 0.8879142857142855,
+            "month": "May",
+            "currency": "Swiss franc   (CHF)"
+          },
+          {
+            "id": 44,
+            "min": 32.375,
+            "max": 32.8,
+            "avg": 32.52722222222222,
+            "month": "May",
+            "currency": "Thai baht   (THB)"
+          },
+          {
+            "id": 45,
+            "min": 6.3992,
+            "max": 6.4531,
+            "avg": 6.43472380952381,
+            "month": "May",
+            "currency": "Trinidadian dollar   (TTD)"
+          },
+          {
+            "id": 46,
+            "min": 1.5975,
+            "max": 1.6352,
+            "avg": 1.6187626315789474,
+            "month": "May",
+            "currency": "Tunisian dinar   (TND)"
+          },
+          {
+            "id": 47,
+            "min": 3.6725,
+            "max": 3.6725,
+            "avg": 3.6725000000000003,
+            "month": "May",
+            "currency": "U.A.E. dirham   (AED)"
+          },
+          {
+            "id": 48,
+            "min": 0.589344649,
+            "max": 0.597907324,
+            "avg": 0.5936621285714286,
+            "month": "May",
+            "currency": "U.K. pound   (GBP)"
+          },
+          {
+            "id": 49,
+            "min": 1,
+            "max": 1,
+            "avg": 1,
+            "month": "May",
+            "currency": "U.S. dollar   (USD)"
+          },
+          {
+            "id": 50,
+            "min": 22.914,
+            "max": 23.023,
+            "avg": 22.975,
+            "month": "May",
+            "currency": "Uruguayan peso   (UYU)"
+          }
+        ],
+        "Jun": [
+          {
+            "id": 0,
+            "min": 79.1171,
+            "max": 79.4007,
+            "avg": 79.29984761904761,
+            "month": "Jun",
+            "currency": "Algerian dinar   (DZD)"
+          },
+          {
+            "id": 1,
+            "min": 1.059434262,
+            "max": 1.079913607,
+            "avg": 1.06747515565,
+            "month": "Jun",
+            "currency": "Australian dollar   (AUD)"
+          },
+          {
+            "id": 2,
+            "min": 0.376,
+            "max": 0.376,
+            "avg": 0.37600000000000006,
+            "month": "Jun",
+            "currency": "Bahrain dinar   (BHD)"
+          },
+          {
+            "id": 3,
+            "min": 6.2842,
+            "max": 6.2842,
+            "avg": 6.2842,
+            "month": "Jun",
+            "currency": "Bolivar Fuerte   (VEF)"
+          },
+          {
+            "id": 4,
+            "min": 8.779631255,
+            "max": 8.896797153,
+            "avg": 8.83835816555,
+            "month": "Jun",
+            "currency": "Botswana pula   (BWP)"
+          },
+          {
+            "id": 5,
+            "min": 2.1975,
+            "max": 2.2802,
+            "avg": 2.2372949999999996,
+            "month": "Jun",
+            "currency": "Brazilian real   (BRL)"
+          },
+          {
+            "id": 6,
+            "min": 1.2479,
+            "max": 1.2581,
+            "avg": 1.2514285714285713,
+            "month": "Jun",
+            "currency": "Brunei dollar   (BND)"
+          },
+          {
+            "id": 7,
+            "min": 1.0676,
+            "max": 1.0937,
+            "avg": 1.0834578947368418,
+            "month": "Jun",
+            "currency": "Canadian dollar   (CAD)"
+          },
+          {
+            "id": 8,
+            "min": 549.59,
+            "max": 559.12,
+            "avg": 553.0633333333334,
+            "month": "Jun",
+            "currency": "Chilean peso   (CLP)"
+          },
+          {
+            "id": 9,
+            "min": 6.1451,
+            "max": 6.171,
+            "avg": 6.156361904761907,
+            "month": "Jun",
+            "currency": "Chinese yuan   (CNY)"
+          },
+          {
+            "id": 10,
+            "min": 1877.18,
+            "max": 1900.64,
+            "avg": 1888.33,
+            "month": "Jun",
+            "currency": "Colombian peso   (COP)"
+          },
+          {
+            "id": 11,
+            "min": 20.1,
+            "max": 20.278,
+            "avg": 20.195619047619044,
+            "month": "Jun",
+            "currency": "Czech koruna   (CZK)"
+          },
+          {
+            "id": 12,
+            "min": 5.4589,
+            "max": 5.5146,
+            "avg": 5.4870789473684205,
+            "month": "Jun",
+            "currency": "Danish krone   (DKK)"
+          },
+          {
+            "id": 13,
+            "min": 0.732171621,
+            "max": 0.739207569,
+            "avg": 0.7357122846190476,
+            "month": "Jun",
+            "currency": "Euro   (EUR)"
+          },
+          {
+            "id": 14,
+            "min": 222.64,
+            "max": 227.33,
+            "avg": 225.18250000000003,
+            "month": "Jun",
+            "currency": "Hungarian forint   (HUF)"
+          },
+          {
+            "id": 15,
+            "min": 112.86,
+            "max": 114.39,
+            "avg": 113.70736842105264,
+            "month": "Jun",
+            "currency": "Icelandic krona   (ISK)"
+          },
+          {
+            "id": 16,
+            "min": 59.0605,
+            "max": 60.368,
+            "avg": 59.730700000000006,
+            "month": "Jun",
+            "currency": "Indian rupee   (INR)"
+          },
+          {
+            "id": 17,
+            "min": 11740,
+            "max": 12103,
+            "avg": 11892.619047619048,
+            "month": "Jun",
+            "currency": "Indonesian rupiah   (IDR)"
+          },
+          {
+            "id": 18,
+            "min": 25586,
+            "max": 25651,
+            "avg": 25611,
+            "month": "Jun",
+            "currency": "Iranian rial   (IRR)"
+          },
+          {
+            "id": 19,
+            "min": 3.433,
+            "max": 3.476,
+            "avg": 3.451875,
+            "month": "Jun",
+            "currency": "Israeli New Shekel   (ILS)"
+          },
+          {
+            "id": 20,
+            "min": 101.3,
+            "max": 102.65,
+            "avg": 102.05238095238094,
+            "month": "Jun",
+            "currency": "Japanese yen   (JPY)"
+          },
+          {
+            "id": 21,
+            "min": 183.49,
+            "max": 183.52,
+            "avg": 183.50761904761907,
+            "month": "Jun",
+            "currency": "Kazakhstani tenge   (KZT)"
+          },
+          {
+            "id": 22,
+            "min": 1014.4,
+            "max": 1024.3,
+            "avg": 1019.57,
+            "month": "Jun",
+            "currency": "Korean won   (KRW)"
+          },
+          {
+            "id": 23,
+            "min": 0.2818,
+            "max": 0.28225,
+            "avg": 0.2819736842105263,
+            "month": "Jun",
+            "currency": "Kuwaiti dinar   (KWD)"
+          },
+          {
+            "id": 24,
+            "min": 1.9324,
+            "max": 1.9324,
+            "avg": 1.9324000000000001,
+            "month": "Jun",
+            "currency": "Libyan dinar   (LYD)"
+          },
+          {
+            "id": 25,
+            "min": 3.1975,
+            "max": 3.2345,
+            "avg": 3.2184190476190473,
+            "month": "Jun",
+            "currency": "Malaysian ringgit   (MYR)"
+          },
+          {
+            "id": 26,
+            "min": 30.2381,
+            "max": 30.4314,
+            "avg": 30.31239523809523,
+            "month": "Jun",
+            "currency": "Mauritian rupee   (MUR)"
+          },
+          {
+            "id": 27,
+            "min": 12.8868,
+            "max": 13.1007,
+            "avg": 12.9916,
+            "month": "Jun",
+            "currency": "Mexican peso   (MXN)"
+          },
+          {
+            "id": 28,
+            "min": 94.57,
+            "max": 96.63,
+            "avg": 95.53333333333335,
+            "month": "Jun",
+            "currency": "Nepalese rupee   (NPR)"
+          },
+          {
+            "id": 29,
+            "min": 1.138433515,
+            "max": 1.187366421,
+            "avg": 1.1601275167499998,
+            "month": "Jun",
+            "currency": "New Zealand dollar   (NZD)"
+          },
+          {
+            "id": 30,
+            "min": 5.9711,
+            "max": 6.1528,
+            "avg": 6.0482450000000005,
+            "month": "Jun",
+            "currency": "Norwegian krone   (NOK)"
+          },
+          {
+            "id": 31,
+            "min": 0.3845,
+            "max": 0.3845,
+            "avg": 0.3845,
+            "month": "Jun",
+            "currency": "Omani rial   (OMR)"
+          },
+          {
+            "id": 32,
+            "min": 98.2598,
+            "max": 98.8203,
+            "avg": 98.58176666666665,
+            "month": "Jun",
+            "currency": "Pakistani rupee   (PKR)"
+          },
+          {
+            "id": 33,
+            "min": 2.77,
+            "max": 2.806,
+            "avg": 2.793333333333333,
+            "month": "Jun",
+            "currency": "Peruvian sol   (PEN)"
+          },
+          {
+            "id": 34,
+            "min": 43.558,
+            "max": 44.017,
+            "avg": 43.81894736842105,
+            "month": "Jun",
+            "currency": "Philippine peso   (PHP)"
+          },
+          {
+            "id": 35,
+            "min": 3.0067,
+            "max": 3.0654,
+            "avg": 3.0428149999999996,
+            "month": "Jun",
+            "currency": "Polish zloty   (PLN)"
+          },
+          {
+            "id": 36,
+            "min": 3.64,
+            "max": 3.64,
+            "avg": 3.6399999999999997,
+            "month": "Jun",
+            "currency": "Qatari riyal   (QAR)"
+          },
+          {
+            "id": 37,
+            "min": 33.6306,
+            "max": 35.1398,
+            "avg": 34.417631578947365,
+            "month": "Jun",
+            "currency": "Russian ruble   (RUB)"
+          },
+          {
+            "id": 38,
+            "min": 3.75,
+            "max": 3.75,
+            "avg": 3.75,
+            "month": "Jun",
+            "currency": "Saudi Arabian riyal   (SAR)"
+          },
+          {
+            "id": 39,
+            "min": 1.2479,
+            "max": 1.2581,
+            "avg": 1.2514285714285713,
+            "month": "Jun",
+            "currency": "Singapore dollar   (SGD)"
+          },
+          {
+            "id": 40,
+            "min": 10.56185,
+            "max": 10.7855,
+            "avg": 10.671187499999998,
+            "month": "Jun",
+            "currency": "South African rand   (ZAR)"
+          },
+          {
+            "id": 41,
+            "min": 130.2298,
+            "max": 130.3863,
+            "avg": 130.28733000000003,
+            "month": "Jun",
+            "currency": "Sri Lankan rupee   (LKR)"
+          },
+          {
+            "id": 42,
+            "min": 6.6272,
+            "max": 6.7459,
+            "avg": 6.68451052631579,
+            "month": "Jun",
+            "currency": "Swedish krona   (SEK)"
+          },
+          {
+            "id": 43,
+            "min": 0.8903,
+            "max": 0.9003,
+            "avg": 0.8961428571428571,
+            "month": "Jun",
+            "currency": "Swiss franc   (CHF)"
+          },
+          {
+            "id": 44,
+            "min": 32.372,
+            "max": 32.876,
+            "avg": 32.51438095238095,
+            "month": "Jun",
+            "currency": "Thai baht   (THB)"
+          },
+          {
+            "id": 45,
+            "min": 6.3364,
+            "max": 6.4346,
+            "avg": 6.389764705882353,
+            "month": "Jun",
+            "currency": "Trinidadian dollar   (TTD)"
+          },
+          {
+            "id": 46,
+            "min": 1.6323,
+            "max": 1.6871,
+            "avg": 1.658703529411765,
+            "month": "Jun",
+            "currency": "Tunisian dinar   (TND)"
+          },
+          {
+            "id": 47,
+            "min": 3.6725,
+            "max": 3.6725,
+            "avg": 3.6725000000000003,
+            "month": "Jun",
+            "currency": "U.A.E. dirham   (AED)"
+          },
+          {
+            "id": 48,
+            "min": 0.586751159,
+            "max": 0.597300203,
+            "avg": 0.591579229952381,
+            "month": "Jun",
+            "currency": "U.K. pound   (GBP)"
+          },
+          {
+            "id": 49,
+            "min": 1,
+            "max": 1,
+            "avg": 1,
+            "month": "Jun",
+            "currency": "U.S. dollar   (USD)"
+          },
+          {
+            "id": 50,
+            "min": 22.799,
+            "max": 22.985,
+            "avg": 22.90955,
+            "month": "Jun",
+            "currency": "Uruguayan peso   (UYU)"
+          }
+        ],
+        "Jul": [
+          {
+            "id": 0,
+            "min": 79.1867,
+            "max": 79.878,
+            "avg": 79.48789500000001,
+            "month": "Jul",
+            "currency": "Algerian dinar   (DZD)"
+          },
+          {
+            "id": 1,
+            "min": 1.057305984,
+            "max": 1.072501073,
+            "avg": 1.0646099078636364,
+            "month": "Jul",
+            "currency": "Australian dollar   (AUD)"
+          },
+          {
+            "id": 2,
+            "min": 0.376,
+            "max": 0.376,
+            "avg": 0.3760000000000001,
+            "month": "Jul",
+            "currency": "Bahrain dinar   (BHD)"
+          },
+          {
+            "id": 3,
+            "min": 6.2842,
+            "max": 6.2842,
+            "avg": 6.284199999999999,
+            "month": "Jul",
+            "currency": "Bolivar Fuerte   (VEF)"
+          },
+          {
+            "id": 4,
+            "min": 8.771929825,
+            "max": 8.904719501,
+            "avg": 8.837357595,
+            "month": "Jul",
+            "currency": "Botswana pula   (BWP)"
+          },
+          {
+            "id": 5,
+            "min": 2.2025,
+            "max": 2.2447,
+            "avg": 2.221540909090909,
+            "month": "Jul",
+            "currency": "Brazilian real   (BRL)"
+          },
+          {
+            "id": 6,
+            "min": 1.2377,
+            "max": 1.2484,
+            "avg": 1.2428882352941177,
+            "month": "Jul",
+            "currency": "Brunei dollar   (BND)"
+          },
+          {
+            "id": 7,
+            "min": 1.0634,
+            "max": 1.0909,
+            "avg": 1.0743952380952382,
+            "month": "Jul",
+            "currency": "Canadian dollar   (CAD)"
+          },
+          {
+            "id": 8,
+            "min": 548.72,
+            "max": 570.51,
+            "avg": 558.5590476190475,
+            "month": "Jul",
+            "currency": "Chilean peso   (CLP)"
+          },
+          {
+            "id": 9,
+            "min": 6.1443,
+            "max": 6.1675,
+            "avg": 6.1566,
+            "month": "Jul",
+            "currency": "Chinese yuan   (CNY)"
+          },
+          {
+            "id": 10,
+            "min": 1845.36,
+            "max": 1881.19,
+            "avg": 1858.7945454545456,
+            "month": "Jul",
+            "currency": "Colombian peso   (COP)"
+          },
+          {
+            "id": 11,
+            "min": 20.039,
+            "max": 20.607,
+            "avg": 20.284181818181818,
+            "month": "Jul",
+            "currency": "Czech koruna   (CZK)"
+          },
+          {
+            "id": 12,
+            "min": 5.4469,
+            "max": 5.5732,
+            "avg": 5.5084409090909086,
+            "month": "Jul",
+            "currency": "Danish krone   (DKK)"
+          },
+          {
+            "id": 13,
+            "min": 0.73056692,
+            "max": 0.747440018,
+            "avg": 0.7387496281363636,
+            "month": "Jul",
+            "currency": "Euro   (EUR)"
+          },
+          {
+            "id": 14,
+            "min": 226.35,
+            "max": 232.95,
+            "avg": 228.70909090909092,
+            "month": "Jul",
+            "currency": "Hungarian forint   (HUF)"
+          },
+          {
+            "id": 15,
+            "min": 112.62,
+            "max": 115.29,
+            "avg": 114.305,
+            "month": "Jul",
+            "currency": "Icelandic krona   (ISK)"
+          },
+          {
+            "id": 16,
+            "min": 59.7225,
+            "max": 60.33,
+            "avg": 60.063755,
+            "month": "Jul",
+            "currency": "Indian rupee   (INR)"
+          },
+          {
+            "id": 17,
+            "min": 11498,
+            "max": 11963,
+            "avg": 11677.411764705883,
+            "month": "Jul",
+            "currency": "Indonesian rupiah   (IDR)"
+          },
+          {
+            "id": 18,
+            "min": 25650,
+            "max": 26303,
+            "avg": 25970.647058823528,
+            "month": "Jul",
+            "currency": "Iranian rial   (IRR)"
+          },
+          {
+            "id": 19,
+            "min": 3.402,
+            "max": 3.436,
+            "avg": 3.421636363636364,
+            "month": "Jul",
+            "currency": "Israeli New Shekel   (ILS)"
+          },
+          {
+            "id": 20,
+            "min": 101.25,
+            "max": 102.78,
+            "avg": 101.70142857142858,
+            "month": "Jul",
+            "currency": "Japanese yen   (JPY)"
+          },
+          {
+            "id": 21,
+            "min": 183.28,
+            "max": 183.53,
+            "avg": 183.5109090909091,
+            "month": "Jul",
+            "currency": "Kazakhstani tenge   (KZT)"
+          },
+          {
+            "id": 22,
+            "min": 1008.9,
+            "max": 1032.7,
+            "avg": 1020.3954545454545,
+            "month": "Jul",
+            "currency": "Korean won   (KRW)"
+          },
+          {
+            "id": 23,
+            "min": 0.2818,
+            "max": 0.2827,
+            "avg": 0.2821470588235294,
+            "month": "Jul",
+            "currency": "Kuwaiti dinar   (KWD)"
+          },
+          {
+            "id": 24,
+            "min": 1.9324,
+            "max": 1.9324,
+            "avg": 1.9324000000000003,
+            "month": "Jul",
+            "currency": "Libyan dinar   (LYD)"
+          },
+          {
+            "id": 25,
+            "min": 3.1705,
+            "max": 3.208,
+            "avg": 3.1847555555555553,
+            "month": "Jul",
+            "currency": "Malaysian ringgit   (MYR)"
+          },
+          {
+            "id": 26,
+            "min": 30.2013,
+            "max": 30.4527,
+            "avg": 30.31154761904762,
+            "month": "Jul",
+            "currency": "Mauritian rupee   (MUR)"
+          },
+          {
+            "id": 27,
+            "min": 12.9286,
+            "max": 13.2269,
+            "avg": 12.995084999999998,
+            "month": "Jul",
+            "currency": "Mexican peso   (MXN)"
+          },
+          {
+            "id": 28,
+            "min": 95.51,
+            "max": 96.49,
+            "avg": 96.0757142857143,
+            "month": "Jul",
+            "currency": "Nepalese rupee   (NPR)"
+          },
+          {
+            "id": 29,
+            "min": 1.133658315,
+            "max": 1.178411501,
+            "avg": 1.1503678199090908,
+            "month": "Jul",
+            "currency": "New Zealand dollar   (NZD)"
+          },
+          {
+            "id": 30,
+            "min": 6.1577,
+            "max": 6.2822,
+            "avg": 6.195686363636363,
+            "month": "Jul",
+            "currency": "Norwegian krone   (NOK)"
+          },
+          {
+            "id": 31,
+            "min": 0.3845,
+            "max": 0.3845,
+            "avg": 0.3845,
+            "month": "Jul",
+            "currency": "Omani rial   (OMR)"
+          },
+          {
+            "id": 32,
+            "min": 98.6337,
+            "max": 98.8692,
+            "avg": 98.7851894736842,
+            "month": "Jul",
+            "currency": "Pakistani rupee   (PKR)"
+          },
+          {
+            "id": 33,
+            "min": 2.772,
+            "max": 2.795,
+            "avg": 2.7856842105263158,
+            "month": "Jul",
+            "currency": "Peruvian sol   (PEN)"
+          },
+          {
+            "id": 34,
+            "min": 43.28,
+            "max": 43.647,
+            "avg": 43.45805000000001,
+            "month": "Jul",
+            "currency": "Philippine peso   (PHP)"
+          },
+          {
+            "id": 35,
+            "min": 3.0322,
+            "max": 3.1094,
+            "avg": 3.0602045454545457,
+            "month": "Jul",
+            "currency": "Polish zloty   (PLN)"
+          },
+          {
+            "id": 36,
+            "min": 3.64,
+            "max": 3.64,
+            "avg": 3.64,
+            "month": "Jul",
+            "currency": "Qatari riyal   (QAR)"
+          },
+          {
+            "id": 37,
+            "min": 33.8353,
+            "max": 35.7271,
+            "avg": 34.72232727272728,
+            "month": "Jul",
+            "currency": "Russian ruble   (RUB)"
+          },
+          {
+            "id": 38,
+            "min": 3.75,
+            "max": 3.75,
+            "avg": 3.75,
+            "month": "Jul",
+            "currency": "Saudi Arabian riyal   (SAR)"
+          },
+          {
+            "id": 39,
+            "min": 1.2377,
+            "max": 1.2484,
+            "avg": 1.2428619047619047,
+            "month": "Jul",
+            "currency": "Singapore dollar   (SGD)"
+          },
+          {
+            "id": 40,
+            "min": 10.4997,
+            "max": 10.8223,
+            "avg": 10.663047727272728,
+            "month": "Jul",
+            "currency": "South African rand   (ZAR)"
+          },
+          {
+            "id": 41,
+            "min": 130.18,
+            "max": 130.3256,
+            "avg": 130.23891428571426,
+            "month": "Jul",
+            "currency": "Sri Lankan rupee   (LKR)"
+          },
+          {
+            "id": 42,
+            "min": 6.6833,
+            "max": 6.8924,
+            "avg": 6.81474090909091,
+            "month": "Jul",
+            "currency": "Swedish krona   (SEK)"
+          },
+          {
+            "id": 43,
+            "min": 0.887,
+            "max": 0.9092,
+            "avg": 0.897331818181818,
+            "month": "Jul",
+            "currency": "Swiss franc   (CHF)"
+          },
+          {
+            "id": 44,
+            "min": 31.774,
+            "max": 32.399,
+            "avg": 32.0867,
+            "month": "Jul",
+            "currency": "Thai baht   (THB)"
+          },
+          {
+            "id": 45,
+            "min": 6.3198,
+            "max": 6.3814,
+            "avg": 6.3575285714285705,
+            "month": "Jul",
+            "currency": "Trinidadian dollar   (TTD)"
+          },
+          {
+            "id": 46,
+            "min": 1.6782,
+            "max": 1.7261,
+            "avg": 1.7068944444444447,
+            "month": "Jul",
+            "currency": "Tunisian dinar   (TND)"
+          },
+          {
+            "id": 47,
+            "min": 3.6725,
+            "max": 3.6725,
+            "avg": 3.6725,
+            "month": "Jul",
+            "currency": "U.A.E. dirham   (AED)"
+          },
+          {
+            "id": 48,
+            "min": 0.582716625,
+            "max": 0.592311793,
+            "avg": 0.5857677776818182,
+            "month": "Jul",
+            "currency": "U.K. pound   (GBP)"
+          },
+          {
+            "id": 49,
+            "min": 1,
+            "max": 1,
+            "avg": 1,
+            "month": "Jul",
+            "currency": "U.S. dollar   (USD)"
+          },
+          {
+            "id": 50,
+            "min": 22.851,
+            "max": 23.301,
+            "avg": 22.961949999999998,
+            "month": "Jul",
+            "currency": "Uruguayan peso   (UYU)"
+          }
+        ],
+        "Aug": [
+          {
+            "id": 0,
+            "min": 79.7902,
+            "max": 80.3401,
+            "avg": 80.00969523809523,
+            "month": "Aug",
+            "currency": "Algerian dinar   (DZD)"
+          },
+          {
+            "id": 1,
+            "min": 1.069175666,
+            "max": 1.081548778,
+            "avg": 1.07483064915,
+            "month": "Aug",
+            "currency": "Australian dollar   (AUD)"
+          },
+          {
+            "id": 2,
+            "min": 0.376,
+            "max": 0.376,
+            "avg": 0.37600000000000006,
+            "month": "Aug",
+            "currency": "Bahrain dinar   (BHD)"
+          },
+          {
+            "id": 3,
+            "min": 6.2842,
+            "max": 6.2842,
+            "avg": 6.2842,
+            "month": "Aug",
+            "currency": "Bolivar Fuerte   (VEF)"
+          },
+          {
+            "id": 4,
+            "min": 8.802816901,
+            "max": 8.904719501,
+            "avg": 8.870219855809522,
+            "month": "Aug",
+            "currency": "Botswana pula   (BWP)"
+          },
+          {
+            "id": 5,
+            "min": 2.2499,
+            "max": 2.2986,
+            "avg": 2.2693523809523803,
+            "month": "Aug",
+            "currency": "Brazilian real   (BRL)"
+          },
+          {
+            "id": 6,
+            "min": 1.2439,
+            "max": 1.2542,
+            "avg": 1.2484952380952383,
+            "month": "Aug",
+            "currency": "Brunei dollar   (BND)"
+          },
+          {
+            "id": 7,
+            "min": 1.0857,
+            "max": 1.0982,
+            "avg": 1.092725,
+            "month": "Aug",
+            "currency": "Canadian dollar   (CAD)"
+          },
+          {
+            "id": 8,
+            "min": 571.75,
+            "max": 593.28,
+            "avg": 579.052,
+            "month": "Aug",
+            "currency": "Chilean peso   (CLP)"
+          },
+          {
+            "id": 9,
+            "min": 6.1517,
+            "max": 6.1681,
+            "avg": 6.160614285714287,
+            "month": "Aug",
+            "currency": "Chinese yuan   (CNY)"
+          },
+          {
+            "id": 10,
+            "min": 1873.65,
+            "max": 1935.04,
+            "avg": 1898.3614999999998,
+            "month": "Aug",
+            "currency": "Colombian peso   (COP)"
+          },
+          {
+            "id": 11,
+            "min": 20.596,
+            "max": 21.097,
+            "avg": 20.88890476190476,
+            "month": "Aug",
+            "currency": "Czech koruna   (CZK)"
+          },
+          {
+            "id": 12,
+            "min": 5.5548,
+            "max": 5.6568,
+            "avg": 5.598780952380952,
+            "month": "Aug",
+            "currency": "Danish krone   (DKK)"
+          },
+          {
+            "id": 13,
+            "min": 0.745045448,
+            "max": 0.75889808,
+            "avg": 0.7509997672857143,
+            "month": "Aug",
+            "currency": "Euro   (EUR)"
+          },
+          {
+            "id": 14,
+            "min": 233.15,
+            "max": 239.21,
+            "avg": 235.62500000000006,
+            "month": "Aug",
+            "currency": "Hungarian forint   (HUF)"
+          },
+          {
+            "id": 15,
+            "min": 115.05,
+            "max": 116.87,
+            "avg": 116.008,
+            "month": "Aug",
+            "currency": "Icelandic krona   (ISK)"
+          },
+          {
+            "id": 16,
+            "min": 60.427,
+            "max": 61.5575,
+            "avg": 60.89517222222222,
+            "month": "Aug",
+            "currency": "Indian rupee   (INR)"
+          },
+          {
+            "id": 17,
+            "min": 11654,
+            "max": 11822,
+            "avg": 11712.45,
+            "month": "Aug",
+            "currency": "Indonesian rupiah   (IDR)"
+          },
+          {
+            "id": 18,
+            "min": 26353,
+            "max": 26602,
+            "avg": 26504.75,
+            "month": "Aug",
+            "currency": "Iranian rial   (IRR)"
+          },
+          {
+            "id": 19,
+            "min": 3.415,
+            "max": 3.572,
+            "avg": 3.5,
+            "month": "Aug",
+            "currency": "Israeli New Shekel   (ILS)"
+          },
+          {
+            "id": 20,
+            "min": 102.09,
+            "max": 104.18,
+            "avg": 102.95714285714287,
+            "month": "Aug",
+            "currency": "Japanese yen   (JPY)"
+          },
+          {
+            "id": 21,
+            "min": 182,
+            "max": 182.08,
+            "avg": 182.00809523809525,
+            "month": "Aug",
+            "currency": "Kazakhstani tenge   (KZT)"
+          },
+          {
+            "id": 22,
+            "min": 1013.6,
+            "max": 1037.4,
+            "avg": 1025.36,
+            "month": "Aug",
+            "currency": "Korean won   (KRW)"
+          },
+          {
+            "id": 23,
+            "min": 0.2831,
+            "max": 0.2845,
+            "avg": 0.283695,
+            "month": "Aug",
+            "currency": "Kuwaiti dinar   (KWD)"
+          },
+          {
+            "id": 24,
+            "min": 1.9324,
+            "max": 1.9324,
+            "avg": 1.9324000000000001,
+            "month": "Aug",
+            "currency": "Libyan dinar   (LYD)"
+          },
+          {
+            "id": 25,
+            "min": 3.148,
+            "max": 3.217,
+            "avg": 3.1784476190476196,
+            "month": "Aug",
+            "currency": "Malaysian ringgit   (MYR)"
+          },
+          {
+            "id": 26,
+            "min": 30.5,
+            "max": 30.8549,
+            "avg": 30.632155,
+            "month": "Aug",
+            "currency": "Mauritian rupee   (MUR)"
+          },
+          {
+            "id": 27,
+            "min": 13.0505,
+            "max": 13.2716,
+            "avg": 13.140638095238094,
+            "month": "Aug",
+            "currency": "Mexican peso   (MXN)"
+          },
+          {
+            "id": 28,
+            "min": 96.7,
+            "max": 98.4,
+            "avg": 97.33857142857144,
+            "month": "Aug",
+            "currency": "Nepalese rupee   (NPR)"
+          },
+          {
+            "id": 29,
+            "min": 1.17260788,
+            "max": 1.201778632,
+            "avg": 1.1856001768571427,
+            "month": "Aug",
+            "currency": "New Zealand dollar   (NZD)"
+          },
+          {
+            "id": 30,
+            "min": 6.1386,
+            "max": 6.3024,
+            "avg": 6.19707619047619,
+            "month": "Aug",
+            "currency": "Norwegian krone   (NOK)"
+          },
+          {
+            "id": 31,
+            "min": 0.3845,
+            "max": 0.3845,
+            "avg": 0.3845,
+            "month": "Aug",
+            "currency": "Omani rial   (OMR)"
+          },
+          {
+            "id": 32,
+            "min": 98.8296,
+            "max": 102.8136,
+            "avg": 100.35616315789476,
+            "month": "Aug",
+            "currency": "Pakistani rupee   (PKR)"
+          },
+          {
+            "id": 33,
+            "min": 2.789,
+            "max": 2.844,
+            "avg": 2.8135238095238098,
+            "month": "Aug",
+            "currency": "Peruvian sol   (PEN)"
+          },
+          {
+            "id": 34,
+            "min": 43.465,
+            "max": 44.175,
+            "avg": 43.76731578947368,
+            "month": "Aug",
+            "currency": "Philippine peso   (PHP)"
+          },
+          {
+            "id": 35,
+            "min": 3.1114,
+            "max": 3.1965,
+            "avg": 3.14777,
+            "month": "Aug",
+            "currency": "Polish zloty   (PLN)"
+          },
+          {
+            "id": 36,
+            "min": 3.64,
+            "max": 3.64,
+            "avg": 3.6399999999999997,
+            "month": "Aug",
+            "currency": "Qatari riyal   (QAR)"
+          },
+          {
+            "id": 37,
+            "min": 35.6605,
+            "max": 36.9316,
+            "avg": 36.129599999999996,
+            "month": "Aug",
+            "currency": "Russian ruble   (RUB)"
+          },
+          {
+            "id": 38,
+            "min": 3.75,
+            "max": 3.75,
+            "avg": 3.75,
+            "month": "Aug",
+            "currency": "Saudi Arabian riyal   (SAR)"
+          },
+          {
+            "id": 39,
+            "min": 1.2439,
+            "max": 1.2542,
+            "avg": 1.2484952380952383,
+            "month": "Aug",
+            "currency": "Singapore dollar   (SGD)"
+          },
+          {
+            "id": 40,
+            "min": 10.53525,
+            "max": 10.7514,
+            "avg": 10.662885714285713,
+            "month": "Aug",
+            "currency": "South African rand   (ZAR)"
+          },
+          {
+            "id": 41,
+            "min": 130.13,
+            "max": 130.2306,
+            "avg": 130.1885,
+            "month": "Aug",
+            "currency": "Sri Lankan rupee   (LKR)"
+          },
+          {
+            "id": 42,
+            "min": 6.8491,
+            "max": 6.9727,
+            "avg": 6.899009523809525,
+            "month": "Aug",
+            "currency": "Swedish krona   (SEK)"
+          },
+          {
+            "id": 43,
+            "min": 0.9045,
+            "max": 0.9162,
+            "avg": 0.9100750000000002,
+            "month": "Aug",
+            "currency": "Swiss franc   (CHF)"
+          },
+          {
+            "id": 44,
+            "min": 31.821,
+            "max": 32.252,
+            "avg": 32.0088947368421,
+            "month": "Aug",
+            "currency": "Thai baht   (THB)"
+          },
+          {
+            "id": 45,
+            "min": 6.332,
+            "max": 6.3512,
+            "avg": 6.341910526315789,
+            "month": "Aug",
+            "currency": "Trinidadian dollar   (TTD)"
+          },
+          {
+            "id": 46,
+            "min": 1.71245,
+            "max": 1.73834,
+            "avg": 1.724149,
+            "month": "Aug",
+            "currency": "Tunisian dinar   (TND)"
+          },
+          {
+            "id": 47,
+            "min": 3.6725,
+            "max": 3.6725,
+            "avg": 3.6725000000000003,
+            "month": "Aug",
+            "currency": "U.A.E. dirham   (AED)"
+          },
+          {
+            "id": 48,
+            "min": 0.592733092,
+            "max": 0.603427468,
+            "avg": 0.5987360499523808,
+            "month": "Aug",
+            "currency": "U.K. pound   (GBP)"
+          },
+          {
+            "id": 49,
+            "min": 1,
+            "max": 1,
+            "avg": 1,
+            "month": "Aug",
+            "currency": "U.S. dollar   (USD)"
+          },
+          {
+            "id": 50,
+            "min": 23.271,
+            "max": 24.103,
+            "avg": 23.67315,
+            "month": "Aug",
+            "currency": "Uruguayan peso   (UYU)"
+          }
+        ],
+        "Sep": [
+          {
+            "id": 0,
+            "min": 80.4089,
+            "max": 83.2421,
+            "avg": 81.28488571428572,
+            "month": "Sep",
+            "currency": "Algerian dinar   (DZD)"
+          },
+          {
+            "id": 1,
+            "min": 1.067805659,
+            "max": 1.142595978,
+            "avg": 1.1035007970000001,
+            "month": "Sep",
+            "currency": "Australian dollar   (AUD)"
+          },
+          {
+            "id": 2,
+            "min": 0.376,
+            "max": 0.376,
+            "avg": 0.37600000000000006,
+            "month": "Sep",
+            "currency": "Bahrain dinar   (BHD)"
+          },
+          {
+            "id": 3,
+            "min": 6.2842,
+            "max": 6.2842,
+            "avg": 6.2842,
+            "month": "Sep",
+            "currency": "Bolivar Fuerte   (VEF)"
+          },
+          {
+            "id": 4,
+            "min": 8.904719501,
+            "max": 9.259259259,
+            "avg": 9.08009313655,
+            "month": "Sep",
+            "currency": "Botswana pula   (BWP)"
+          },
+          {
+            "id": 5,
+            "min": 2.2319,
+            "max": 2.4522,
+            "avg": 2.327242857142857,
+            "month": "Sep",
+            "currency": "Brazilian real   (BRL)"
+          },
+          {
+            "id": 6,
+            "min": 1.2508,
+            "max": 1.2742,
+            "avg": 1.263452380952381,
+            "month": "Sep",
+            "currency": "Brunei dollar   (BND)"
+          },
+          {
+            "id": 7,
+            "min": 1.0863,
+            "max": 1.1208,
+            "avg": 1.1011809523809524,
+            "month": "Sep",
+            "currency": "Canadian dollar   (CAD)"
+          },
+          {
+            "id": 8,
+            "min": 585.29,
+            "max": 601.66,
+            "avg": 593.6026315789474,
+            "month": "Sep",
+            "currency": "Chilean peso   (CLP)"
+          },
+          {
+            "id": 9,
+            "min": 6.1425,
+            "max": 6.1707,
+            "avg": 6.152075000000001,
+            "month": "Sep",
+            "currency": "Chinese yuan   (CNY)"
+          },
+          {
+            "id": 10,
+            "min": 1918.62,
+            "max": 2028.48,
+            "avg": 1973.7730000000004,
+            "month": "Sep",
+            "currency": "Colombian peso   (COP)"
+          },
+          {
+            "id": 11,
+            "min": 21.031,
+            "max": 21.853,
+            "avg": 21.40619047619047,
+            "month": "Sep",
+            "currency": "Czech koruna   (CZK)"
+          },
+          {
+            "id": 12,
+            "min": 5.6631,
+            "max": 5.9152,
+            "avg": 5.77595238095238,
+            "month": "Sep",
+            "currency": "Danish krone   (DKK)"
+          },
+          {
+            "id": 13,
+            "min": 0.760398449,
+            "max": 0.794723039,
+            "avg": 0.775852887142857,
+            "month": "Sep",
+            "currency": "Euro   (EUR)"
+          },
+          {
+            "id": 14,
+            "min": 238.57,
+            "max": 246.74,
+            "avg": 242.7761904761905,
+            "month": "Sep",
+            "currency": "Hungarian forint   (HUF)"
+          },
+          {
+            "id": 15,
+            "min": 117.06,
+            "max": 121.24,
+            "avg": 119.10285714285712,
+            "month": "Sep",
+            "currency": "Icelandic krona   (ISK)"
+          },
+          {
+            "id": 16,
+            "min": 60.2628,
+            "max": 61.6135,
+            "avg": 60.88356190476191,
+            "month": "Sep",
+            "currency": "Indian rupee   (INR)"
+          },
+          {
+            "id": 17,
+            "min": 11722,
+            "max": 12212,
+            "avg": 11899.380952380952,
+            "month": "Sep",
+            "currency": "Indonesian rupiah   (IDR)"
+          },
+          {
+            "id": 18,
+            "min": 26611,
+            "max": 26669,
+            "avg": 26637.647058823528,
+            "month": "Sep",
+            "currency": "Iranian rial   (IRR)"
+          },
+          {
+            "id": 19,
+            "min": 3.578,
+            "max": 3.695,
+            "avg": 3.6298333333333335,
+            "month": "Sep",
+            "currency": "Israeli New Shekel   (ILS)"
+          },
+          {
+            "id": 20,
+            "min": 104.39,
+            "max": 109.37,
+            "avg": 107.24421052631578,
+            "month": "Sep",
+            "currency": "Japanese yen   (JPY)"
+          },
+          {
+            "id": 21,
+            "min": 181.88,
+            "max": 182,
+            "avg": 181.95285714285717,
+            "month": "Sep",
+            "currency": "Kazakhstani tenge   (KZT)"
+          },
+          {
+            "id": 22,
+            "min": 1014.3,
+            "max": 1050.6,
+            "avg": 1034.2611111111112,
+            "month": "Sep",
+            "currency": "Korean won   (KRW)"
+          },
+          {
+            "id": 23,
+            "min": 0.28495,
+            "max": 0.28805,
+            "avg": 0.2866428571428572,
+            "month": "Sep",
+            "currency": "Kuwaiti dinar   (KWD)"
+          },
+          {
+            "id": 24,
+            "min": 1.9324,
+            "max": 1.9324,
+            "avg": 1.9324000000000001,
+            "month": "Sep",
+            "currency": "Libyan dinar   (LYD)"
+          },
+          {
+            "id": 25,
+            "min": 3.169,
+            "max": 3.2735,
+            "avg": 3.2181549999999994,
+            "month": "Sep",
+            "currency": "Malaysian ringgit   (MYR)"
+          },
+          {
+            "id": 26,
+            "min": 30.9039,
+            "max": 31.3299,
+            "avg": 31.174099999999996,
+            "month": "Sep",
+            "currency": "Mauritian rupee   (MUR)"
+          },
+          {
+            "id": 27,
+            "min": 13.0788,
+            "max": 13.4891,
+            "avg": 13.242800000000003,
+            "month": "Sep",
+            "currency": "Mexican peso   (MXN)"
+          },
+          {
+            "id": 28,
+            "min": 96.47,
+            "max": 98.46,
+            "avg": 97.32714285714285,
+            "month": "Sep",
+            "currency": "Nepalese rupee   (NPR)"
+          },
+          {
+            "id": 29,
+            "min": 1.192605844,
+            "max": 1.287498391,
+            "avg": 1.2263127352380951,
+            "month": "Sep",
+            "currency": "New Zealand dollar   (NZD)"
+          },
+          {
+            "id": 30,
+            "min": 6.1929,
+            "max": 6.453,
+            "avg": 6.34797142857143,
+            "month": "Sep",
+            "currency": "Norwegian krone   (NOK)"
+          },
+          {
+            "id": 31,
+            "min": 0.3845,
+            "max": 0.3845,
+            "avg": 0.3845,
+            "month": "Sep",
+            "currency": "Omani rial   (OMR)"
+          },
+          {
+            "id": 32,
+            "min": 102.0636,
+            "max": 102.8213,
+            "avg": 102.54087499999999,
+            "month": "Sep",
+            "currency": "Pakistani rupee   (PKR)"
+          },
+          {
+            "id": 33,
+            "min": 2.847,
+            "max": 2.892,
+            "avg": 2.863714285714286,
+            "month": "Sep",
+            "currency": "Peruvian sol   (PEN)"
+          },
+          {
+            "id": 34,
+            "min": 43.556,
+            "max": 44.966,
+            "avg": 44.09589999999999,
+            "month": "Sep",
+            "currency": "Philippine peso   (PHP)"
+          },
+          {
+            "id": 35,
+            "min": 3.1912,
+            "max": 3.3,
+            "avg": 3.2476666666666665,
+            "month": "Sep",
+            "currency": "Polish zloty   (PLN)"
+          },
+          {
+            "id": 36,
+            "min": 3.64,
+            "max": 3.64,
+            "avg": 3.6399999999999997,
+            "month": "Sep",
+            "currency": "Qatari riyal   (QAR)"
+          },
+          {
+            "id": 37,
+            "min": 36.8038,
+            "max": 39.3866,
+            "avg": 38.001261904761904,
+            "month": "Sep",
+            "currency": "Russian ruble   (RUB)"
+          },
+          {
+            "id": 38,
+            "min": 3.75,
+            "max": 3.75,
+            "avg": 3.75,
+            "month": "Sep",
+            "currency": "Saudi Arabian riyal   (SAR)"
+          },
+          {
+            "id": 39,
+            "min": 1.2508,
+            "max": 1.2742,
+            "avg": 1.263452380952381,
+            "month": "Sep",
+            "currency": "Singapore dollar   (SGD)"
+          },
+          {
+            "id": 40,
+            "min": 10.633,
+            "max": 11.33465,
+            "avg": 10.97778,
+            "month": "Sep",
+            "currency": "South African rand   (ZAR)"
+          },
+          {
+            "id": 41,
+            "min": 130.1913,
+            "max": 130.3707,
+            "avg": 130.26332499999998,
+            "month": "Sep",
+            "currency": "Sri Lankan rupee   (LKR)"
+          },
+          {
+            "id": 42,
+            "min": 7.0041,
+            "max": 7.2542,
+            "avg": 7.128115000000001,
+            "month": "Sep",
+            "currency": "Swedish krona   (SEK)"
+          },
+          {
+            "id": 43,
+            "min": 0.9185,
+            "max": 0.9581,
+            "avg": 0.9365,
+            "month": "Sep",
+            "currency": "Swiss franc   (CHF)"
+          },
+          {
+            "id": 44,
+            "min": 32,
+            "max": 32.368,
+            "avg": 32.19933333333333,
+            "month": "Sep",
+            "currency": "Thai baht   (THB)"
+          },
+          {
+            "id": 45,
+            "min": 6.3285,
+            "max": 6.3606,
+            "avg": 6.34648947368421,
+            "month": "Sep",
+            "currency": "Trinidadian dollar   (TTD)"
+          },
+          {
+            "id": 46,
+            "min": 1.74341,
+            "max": 1.79595,
+            "avg": 1.7696966666666665,
+            "month": "Sep",
+            "currency": "Tunisian dinar   (TND)"
+          },
+          {
+            "id": 47,
+            "min": 3.6725,
+            "max": 3.6725,
+            "avg": 3.6725000000000003,
+            "month": "Sep",
+            "currency": "U.A.E. dirham   (AED)"
+          },
+          {
+            "id": 48,
+            "min": 0.604741171,
+            "max": 0.620308914,
+            "avg": 0.6136355345714284,
+            "month": "Sep",
+            "currency": "U.K. pound   (GBP)"
+          },
+          {
+            "id": 49,
+            "min": 1,
+            "max": 1,
+            "avg": 1,
+            "month": "Sep",
+            "currency": "U.S. dollar   (USD)"
+          },
+          {
+            "id": 50,
+            "min": 23.959,
+            "max": 24.742,
+            "avg": 24.300714285714285,
+            "month": "Sep",
+            "currency": "Uruguayan peso   (UYU)"
+          }
+        ],
+        "Oct": [
+          {
+            "id": 0,
+            "min": 83.1957,
+            "max": 83.8414,
+            "avg": 83.46762272727273,
+            "month": "Oct",
+            "currency": "Algerian dinar   (DZD)"
+          },
+          {
+            "id": 1,
+            "min": 1.125745807,
+            "max": 1.150350857,
+            "avg": 1.138145142857143,
+            "month": "Oct",
+            "currency": "Australian dollar   (AUD)"
+          },
+          {
+            "id": 2,
+            "min": 0.376,
+            "max": 0.376,
+            "avg": 0.37600000000000006,
+            "month": "Oct",
+            "currency": "Bahrain dinar   (BHD)"
+          },
+          {
+            "id": 3,
+            "min": 6.2842,
+            "max": 6.2842,
+            "avg": 6.284199999999999,
+            "month": "Oct",
+            "currency": "Bolivar Fuerte   (VEF)"
+          },
+          {
+            "id": 4,
+            "min": 9.066183137,
+            "max": 9.302325581,
+            "avg": 9.164652004450001,
+            "month": "Oct",
+            "currency": "Botswana pula   (BWP)"
+          },
+          {
+            "id": 5,
+            "min": 2.3914,
+            "max": 2.5341,
+            "avg": 2.450419047619048,
+            "month": "Oct",
+            "currency": "Brazilian real   (BRL)"
+          },
+          {
+            "id": 6,
+            "min": 1.2688,
+            "max": 1.2797,
+            "avg": 1.2739578947368422,
+            "month": "Oct",
+            "currency": "Brunei dollar   (BND)"
+          },
+          {
+            "id": 7,
+            "min": 1.1136,
+            "max": 1.1289,
+            "avg": 1.1212238095238094,
+            "month": "Oct",
+            "currency": "Canadian dollar   (CAD)"
+          },
+          {
+            "id": 8,
+            "min": 576.65,
+            "max": 599.22,
+            "avg": 589.1777272727273,
+            "month": "Oct",
+            "currency": "Chilean peso   (CLP)"
+          },
+          {
+            "id": 9,
+            "min": 6.1395,
+            "max": 6.1493,
+            "avg": 6.144041176470588,
+            "month": "Oct",
+            "currency": "Chinese yuan   (CNY)"
+          },
+          {
+            "id": 10,
+            "min": 2021.49,
+            "max": 2074.4,
+            "avg": 2046.9642857142858,
+            "month": "Oct",
+            "currency": "Colombian peso   (COP)"
+          },
+          {
+            "id": 11,
+            "min": 21.439,
+            "max": 22.176,
+            "avg": 21.771428571428572,
+            "month": "Oct",
+            "currency": "Czech koruna   (CZK)"
+          },
+          {
+            "id": 12,
+            "min": 5.8068,
+            "max": 5.9441,
+            "avg": 5.875031818181818,
+            "month": "Oct",
+            "currency": "Danish krone   (DKK)"
+          },
+          {
+            "id": 13,
+            "min": 0.779848709,
+            "max": 0.798466943,
+            "avg": 0.789140161909091,
+            "month": "Oct",
+            "currency": "Euro   (EUR)"
+          },
+          {
+            "id": 14,
+            "min": 239.51,
+            "max": 246.37,
+            "avg": 242.8055,
+            "month": "Oct",
+            "currency": "Hungarian forint   (HUF)"
+          },
+          {
+            "id": 15,
+            "min": 119.64,
+            "max": 121.9,
+            "avg": 120.80954545454547,
+            "month": "Oct",
+            "currency": "Icelandic krona   (ISK)"
+          },
+          {
+            "id": 16,
+            "min": 61.0368,
+            "max": 61.7511,
+            "avg": 61.34802499999999,
+            "month": "Oct",
+            "currency": "Indian rupee   (INR)"
+          },
+          {
+            "id": 17,
+            "min": 11993,
+            "max": 12241,
+            "avg": 12142.272727272728,
+            "month": "Oct",
+            "currency": "Indonesian rupiah   (IDR)"
+          },
+          {
+            "id": 18,
+            "min": 26673,
+            "max": 26706,
+            "avg": 26687.823529411766,
+            "month": "Oct",
+            "currency": "Iranian rial   (IRR)"
+          },
+          {
+            "id": 19,
+            "min": 3.644,
+            "max": 3.793,
+            "avg": 3.735894736842105,
+            "month": "Oct",
+            "currency": "Israeli New Shekel   (ILS)"
+          },
+          {
+            "id": 20,
+            "min": 106,
+            "max": 110.57,
+            "avg": 108.06136363636365,
+            "month": "Oct",
+            "currency": "Japanese yen   (JPY)"
+          },
+          {
+            "id": 21,
+            "min": 180.87,
+            "max": 181.9,
+            "avg": 181.41363636363633,
+            "month": "Oct",
+            "currency": "Kazakhstani tenge   (KZT)"
+          },
+          {
+            "id": 22,
+            "min": 1047,
+            "max": 1072.3,
+            "avg": 1059.745,
+            "month": "Oct",
+            "currency": "Korean won   (KRW)"
+          },
+          {
+            "id": 23,
+            "min": 0.2882,
+            "max": 0.2895,
+            "avg": 0.28878684210526323,
+            "month": "Oct",
+            "currency": "Kuwaiti dinar   (KWD)"
+          },
+          {
+            "id": 24,
+            "min": 1.9324,
+            "max": 1.9324,
+            "avg": 1.9324000000000001,
+            "month": "Oct",
+            "currency": "Libyan dinar   (LYD)"
+          },
+          {
+            "id": 25,
+            "min": 3.2375,
+            "max": 3.29,
+            "avg": 3.26933,
+            "month": "Oct",
+            "currency": "Malaysian ringgit   (MYR)"
+          },
+          {
+            "id": 26,
+            "min": 31.2779,
+            "max": 31.4723,
+            "avg": 31.355609999999995,
+            "month": "Oct",
+            "currency": "Mauritian rupee   (MUR)"
+          },
+          {
+            "id": 27,
+            "min": 13.3789,
+            "max": 13.5701,
+            "avg": 13.47512380952381,
+            "month": "Oct",
+            "currency": "Mexican peso   (MXN)"
+          },
+          {
+            "id": 28,
+            "min": 97.69,
+            "max": 98.94,
+            "avg": 98.27499999999999,
+            "month": "Oct",
+            "currency": "Nepalese rupee   (NPR)"
+          },
+          {
+            "id": 29,
+            "min": 1.253132832,
+            "max": 1.289823294,
+            "avg": 1.2703175625714285,
+            "month": "Oct",
+            "currency": "New Zealand dollar   (NZD)"
+          },
+          {
+            "id": 30,
+            "min": 6.4178,
+            "max": 6.779,
+            "avg": 6.56345,
+            "month": "Oct",
+            "currency": "Norwegian krone   (NOK)"
+          },
+          {
+            "id": 31,
+            "min": 0.3845,
+            "max": 0.3845,
+            "avg": 0.3845,
+            "month": "Oct",
+            "currency": "Omani rial   (OMR)"
+          },
+          {
+            "id": 32,
+            "min": 102.5577,
+            "max": 103.2895,
+            "avg": 102.91076842105264,
+            "month": "Oct",
+            "currency": "Pakistani rupee   (PKR)"
+          },
+          {
+            "id": 33,
+            "min": 2.89,
+            "max": 2.92,
+            "avg": 2.904684210526316,
+            "month": "Oct",
+            "currency": "Peruvian sol   (PEN)"
+          },
+          {
+            "id": 34,
+            "min": 44.624,
+            "max": 44.966,
+            "avg": 44.80028571428571,
+            "month": "Oct",
+            "currency": "Philippine peso   (PHP)"
+          },
+          {
+            "id": 35,
+            "min": 3.2776,
+            "max": 3.3592,
+            "avg": 3.317409090909092,
+            "month": "Oct",
+            "currency": "Polish zloty   (PLN)"
+          },
+          {
+            "id": 36,
+            "min": 3.64,
+            "max": 3.64,
+            "avg": 3.64,
+            "month": "Oct",
+            "currency": "Qatari riyal   (QAR)"
+          },
+          {
+            "id": 37,
+            "min": 39.5474,
+            "max": 43.3943,
+            "avg": 40.93744545454546,
+            "month": "Oct",
+            "currency": "Russian ruble   (RUB)"
+          },
+          {
+            "id": 38,
+            "min": 3.75,
+            "max": 3.75,
+            "avg": 3.75,
+            "month": "Oct",
+            "currency": "Saudi Arabian riyal   (SAR)"
+          },
+          {
+            "id": 39,
+            "min": 1.2688,
+            "max": 1.2797,
+            "avg": 1.27392,
+            "month": "Oct",
+            "currency": "Singapore dollar   (SGD)"
+          },
+          {
+            "id": 40,
+            "min": 10.8597,
+            "max": 11.29905,
+            "avg": 11.0701,
+            "month": "Oct",
+            "currency": "South African rand   (ZAR)"
+          },
+          {
+            "id": 41,
+            "min": 130.3127,
+            "max": 130.85,
+            "avg": 130.61097368421053,
+            "month": "Oct",
+            "currency": "Sri Lankan rupee   (LKR)"
+          },
+          {
+            "id": 42,
+            "min": 7.1547,
+            "max": 7.3971,
+            "avg": 7.237899999999999,
+            "month": "Oct",
+            "currency": "Swedish krona   (SEK)"
+          },
+          {
+            "id": 43,
+            "min": 0.9424,
+            "max": 0.9655,
+            "avg": 0.9532409090909089,
+            "month": "Oct",
+            "currency": "Swiss franc   (CHF)"
+          },
+          {
+            "id": 44,
+            "min": 32.252,
+            "max": 32.642,
+            "avg": 32.45923809523809,
+            "month": "Oct",
+            "currency": "Thai baht   (THB)"
+          },
+          {
+            "id": 45,
+            "min": 6.3231,
+            "max": 6.3614,
+            "avg": 6.343176190476191,
+            "month": "Oct",
+            "currency": "Trinidadian dollar   (TTD)"
+          },
+          {
+            "id": 46,
+            "min": 1.78719,
+            "max": 1.81349,
+            "avg": 1.800695,
+            "month": "Oct",
+            "currency": "Tunisian dinar   (TND)"
+          },
+          {
+            "id": 47,
+            "min": 3.6725,
+            "max": 3.6725,
+            "avg": 3.6725,
+            "month": "Oct",
+            "currency": "U.A.E. dirham   (AED)"
+          },
+          {
+            "id": 48,
+            "min": 0.616750956,
+            "max": 0.628180162,
+            "avg": 0.6224566304999999,
+            "month": "Oct",
+            "currency": "U.K. pound   (GBP)"
+          },
+          {
+            "id": 49,
+            "min": 1,
+            "max": 1,
+            "avg": 1,
+            "month": "Oct",
+            "currency": "U.S. dollar   (USD)"
+          },
+          {
+            "id": 50,
+            "min": 23.774,
+            "max": 24.544,
+            "avg": 24.282666666666664,
+            "month": "Oct",
+            "currency": "Uruguayan peso   (UYU)"
+          }
+        ],
+        "Nov": [
+          {
+            "id": 0,
+            "min": 83.9901,
+            "max": 85.8644,
+            "avg": 84.76087058823529,
+            "month": "Nov",
+            "currency": "Algerian dinar   (DZD)"
+          },
+          {
+            "id": 1,
+            "min": 1.137915339,
+            "max": 1.171646163,
+            "avg": 1.1545302213333333,
+            "month": "Nov",
+            "currency": "Australian dollar   (AUD)"
+          },
+          {
+            "id": 2,
+            "min": 0.376,
+            "max": 0.376,
+            "avg": 0.37600000000000006,
+            "month": "Nov",
+            "currency": "Bahrain dinar   (BHD)"
+          },
+          {
+            "id": 3,
+            "min": 6.2842,
+            "max": 6.2842,
+            "avg": 6.2842,
+            "month": "Nov",
+            "currency": "Bolivar Fuerte   (VEF)"
+          },
+          {
+            "id": 4,
+            "min": 9.165902841,
+            "max": 9.337068161,
+            "avg": 9.238153917166665,
+            "month": "Nov",
+            "currency": "Botswana pula   (BWP)"
+          },
+          {
+            "id": 5,
+            "min": 2.4442,
+            "max": 2.6136,
+            "avg": 2.5463666666666662,
+            "month": "Nov",
+            "currency": "Brazilian real   (BRL)"
+          },
+          {
+            "id": 6,
+            "min": 1.2877,
+            "max": 1.3028,
+            "avg": 1.2951055555555555,
+            "month": "Nov",
+            "currency": "Brunei dollar   (BND)"
+          },
+          {
+            "id": 7,
+            "min": 1.1236,
+            "max": 1.1424,
+            "avg": 1.1320176470588235,
+            "month": "Nov",
+            "currency": "Canadian dollar   (CAD)"
+          },
+          {
+            "id": 8,
+            "min": 576.5,
+            "max": 600.37,
+            "avg": 591.6666666666666,
+            "month": "Nov",
+            "currency": "Chilean peso   (CLP)"
+          },
+          {
+            "id": 9,
+            "min": 6.1354,
+            "max": 6.1602,
+            "avg": 6.144316666666666,
+            "month": "Nov",
+            "currency": "Chinese yuan   (CNY)"
+          },
+          {
+            "id": 10,
+            "min": 2061.92,
+            "max": 2162.15,
+            "avg": 2122.5074999999997,
+            "month": "Nov",
+            "currency": "Colombian peso   (COP)"
+          },
+          {
+            "id": 11,
+            "min": 22.053,
+            "max": 22.356,
+            "avg": 22.187176470588234,
+            "month": "Nov",
+            "currency": "Czech koruna   (CZK)"
+          },
+          {
+            "id": 12,
+            "min": 5.9364,
+            "max": 6.0023,
+            "avg": 5.967172222222222,
+            "month": "Nov",
+            "currency": "Danish krone   (DKK)"
+          },
+          {
+            "id": 13,
+            "min": 0.797511763,
+            "max": 0.806907125,
+            "avg": 0.8018593589999999,
+            "month": "Nov",
+            "currency": "Euro   (EUR)"
+          },
+          {
+            "id": 14,
+            "min": 243.47,
+            "max": 249.29,
+            "avg": 246.1194444444444,
+            "month": "Nov",
+            "currency": "Hungarian forint   (HUF)"
+          },
+          {
+            "id": 15,
+            "min": 122.48,
+            "max": 124.43,
+            "avg": 123.60666666666667,
+            "month": "Nov",
+            "currency": "Icelandic krona   (ISK)"
+          },
+          {
+            "id": 16,
+            "min": 61.387,
+            "max": 62.1044,
+            "avg": 61.6772875,
+            "month": "Nov",
+            "currency": "Indian rupee   (INR)"
+          },
+          {
+            "id": 17,
+            "min": 12092,
+            "max": 12206,
+            "avg": 12155.055555555555,
+            "month": "Nov",
+            "currency": "Indonesian rupiah   (IDR)"
+          },
+          {
+            "id": 18,
+            "min": 26724,
+            "max": 26818,
+            "avg": 26776.909090909092,
+            "month": "Nov",
+            "currency": "Iranian rial   (IRR)"
+          },
+          {
+            "id": 19,
+            "min": 3.782,
+            "max": 3.871,
+            "avg": 3.822941176470588,
+            "month": "Nov",
+            "currency": "Israeli New Shekel   (ILS)"
+          },
+          {
+            "id": 20,
+            "min": 113.6,
+            "max": 118.2,
+            "avg": 116.016875,
+            "month": "Nov",
+            "currency": "Japanese yen   (JPY)"
+          },
+          {
+            "id": 21,
+            "min": 180.87,
+            "max": 180.87,
+            "avg": 180.87,
+            "month": "Nov",
+            "currency": "Kazakhstani tenge   (KZT)"
+          },
+          {
+            "id": 22,
+            "min": 1058.8,
+            "max": 1113.1,
+            "avg": 1094.1055555555554,
+            "month": "Nov",
+            "currency": "Korean won   (KRW)"
+          },
+          {
+            "id": 23,
+            "min": 0.29025,
+            "max": 0.2912,
+            "avg": 0.29066666666666663,
+            "month": "Nov",
+            "currency": "Kuwaiti dinar   (KWD)"
+          },
+          {
+            "id": 24,
+            "min": 1.9324,
+            "max": 1.9324,
+            "avg": 1.9324000000000001,
+            "month": "Nov",
+            "currency": "Libyan dinar   (LYD)"
+          },
+          {
+            "id": 25,
+            "min": 3.312,
+            "max": 3.3655,
+            "avg": 3.3425555555555553,
+            "month": "Nov",
+            "currency": "Malaysian ringgit   (MYR)"
+          },
+          {
+            "id": 26,
+            "min": 31.3603,
+            "max": 31.5936,
+            "avg": 31.499572222222223,
+            "month": "Nov",
+            "currency": "Mauritian rupee   (MUR)"
+          },
+          {
+            "id": 27,
+            "min": 13.5348,
+            "max": 13.7219,
+            "avg": 13.596899999999998,
+            "month": "Nov",
+            "currency": "Mexican peso   (MXN)"
+          },
+          {
+            "id": 28,
+            "min": 98.18,
+            "max": 99.14,
+            "avg": 98.61722222222222,
+            "month": "Nov",
+            "currency": "Nepalese rupee   (NPR)"
+          },
+          {
+            "id": 29,
+            "min": 1.257545272,
+            "max": 1.300221038,
+            "avg": 1.2776296475000004,
+            "month": "Nov",
+            "currency": "New Zealand dollar   (NZD)"
+          },
+          {
+            "id": 30,
+            "min": 6.7357,
+            "max": 6.8702,
+            "avg": 6.7948,
+            "month": "Nov",
+            "currency": "Norwegian krone   (NOK)"
+          },
+          {
+            "id": 31,
+            "min": 0.3845,
+            "max": 0.3845,
+            "avg": 0.3845,
+            "month": "Nov",
+            "currency": "Omani rial   (OMR)"
+          },
+          {
+            "id": 32,
+            "min": 101.5908,
+            "max": 102.9375,
+            "avg": 101.94159375,
+            "month": "Nov",
+            "currency": "Pakistani rupee   (PKR)"
+          },
+          {
+            "id": 33,
+            "min": 2.915,
+            "max": 2.933,
+            "avg": 2.925764705882353,
+            "month": "Nov",
+            "currency": "Peruvian sol   (PEN)"
+          },
+          {
+            "id": 34,
+            "min": 44.873,
+            "max": 45.119,
+            "avg": 44.955333333333336,
+            "month": "Nov",
+            "currency": "Philippine peso   (PHP)"
+          },
+          {
+            "id": 35,
+            "min": 3.3546,
+            "max": 3.4084,
+            "avg": 3.3799588235294116,
+            "month": "Nov",
+            "currency": "Polish zloty   (PLN)"
+          },
+          {
+            "id": 36,
+            "min": 3.64,
+            "max": 3.64,
+            "avg": 3.6399999999999997,
+            "month": "Nov",
+            "currency": "Qatari riyal   (QAR)"
+          },
+          {
+            "id": 37,
+            "min": 44.3993,
+            "max": 47.8774,
+            "avg": 46.199037499999996,
+            "month": "Nov",
+            "currency": "Russian ruble   (RUB)"
+          },
+          {
+            "id": 38,
+            "min": 3.75,
+            "max": 3.75,
+            "avg": 3.75,
+            "month": "Nov",
+            "currency": "Saudi Arabian riyal   (SAR)"
+          },
+          {
+            "id": 39,
+            "min": 1.2877,
+            "max": 1.3028,
+            "avg": 1.2951055555555555,
+            "month": "Nov",
+            "currency": "Singapore dollar   (SGD)"
+          },
+          {
+            "id": 40,
+            "min": 10.9228,
+            "max": 11.3223,
+            "avg": 11.104922222222221,
+            "month": "Nov",
+            "currency": "South African rand   (ZAR)"
+          },
+          {
+            "id": 41,
+            "min": 130.8367,
+            "max": 131,
+            "avg": 130.9289294117647,
+            "month": "Nov",
+            "currency": "Sri Lankan rupee   (LKR)"
+          },
+          {
+            "id": 42,
+            "min": 7.3752,
+            "max": 7.4671,
+            "avg": 7.411755555555555,
+            "month": "Nov",
+            "currency": "Swedish krona   (SEK)"
+          },
+          {
+            "id": 43,
+            "min": 0.9582,
+            "max": 0.9714,
+            "avg": 0.9646055555555555,
+            "month": "Nov",
+            "currency": "Swiss franc   (CHF)"
+          },
+          {
+            "id": 44,
+            "min": 32.613,
+            "max": 32.898,
+            "avg": 32.79205555555556,
+            "month": "Nov",
+            "currency": "Thai baht   (THB)"
+          },
+          {
+            "id": 45,
+            "min": 6.3159,
+            "max": 6.3471,
+            "avg": 6.335505555555555,
+            "month": "Nov",
+            "currency": "Trinidadian dollar   (TTD)"
+          },
+          {
+            "id": 46,
+            "min": 1.81936,
+            "max": 1.84346,
+            "avg": 1.8321238888888887,
+            "month": "Nov",
+            "currency": "Tunisian dinar   (TND)"
+          },
+          {
+            "id": 47,
+            "min": 3.6725,
+            "max": 3.6725,
+            "avg": 3.6725000000000003,
+            "month": "Nov",
+            "currency": "U.A.E. dirham   (AED)"
+          },
+          {
+            "id": 48,
+            "min": 0.62496094,
+            "max": 0.639304437,
+            "avg": 0.6335282088888888,
+            "month": "Nov",
+            "currency": "U.K. pound   (GBP)"
+          },
+          {
+            "id": 49,
+            "min": 1,
+            "max": 1,
+            "avg": 1,
+            "month": "Nov",
+            "currency": "U.S. dollar   (USD)"
+          },
+          {
+            "id": 50,
+            "min": 23.507,
+            "max": 24.369,
+            "avg": 24.020764705882353,
+            "month": "Nov",
+            "currency": "Uruguayan peso   (UYU)"
+          }
+        ],
+        "Dec": [
+          {
+            "id": 0,
+            "min": 85.9915,
+            "max": 87.9686,
+            "avg": 86.91820476190476,
+            "month": "Dec",
+            "currency": "Algerian dinar   (DZD)"
+          },
+          {
+            "id": 1,
+            "min": 1.175917215,
+            "max": 1.232741617,
+            "avg": 1.2115083511904763,
+            "month": "Dec",
+            "currency": "Australian dollar   (AUD)"
+          },
+          {
+            "id": 2,
+            "min": 0.376,
+            "max": 0.376,
+            "avg": 0.37600000000000006,
+            "month": "Dec",
+            "currency": "Bahrain dinar   (BHD)"
+          },
+          {
+            "id": 3,
+            "min": 6.2842,
+            "max": 6.2842,
+            "avg": 6.2842,
+            "month": "Dec",
+            "currency": "Bolivar Fuerte   (VEF)"
+          },
+          {
+            "id": 4,
+            "min": 9.216589862,
+            "max": 9.551098376,
+            "avg": 9.441377282714287,
+            "month": "Dec",
+            "currency": "Botswana pula   (BWP)"
+          },
+          {
+            "id": 5,
+            "min": 2.5601,
+            "max": 2.7403,
+            "avg": 2.6327,
+            "month": "Dec",
+            "currency": "Brazilian real   (BRL)"
+          },
+          {
+            "id": 6,
+            "min": 1.3043,
+            "max": 1.3253,
+            "avg": 1.3148750000000002,
+            "month": "Dec",
+            "currency": "Brunei dollar   (BND)"
+          },
+          {
+            "id": 7,
+            "min": 1.1344,
+            "max": 1.1643,
+            "avg": 1.1532523809523811,
+            "month": "Dec",
+            "currency": "Canadian dollar   (CAD)"
+          },
+          {
+            "id": 8,
+            "min": 605.46,
+            "max": 621.41,
+            "avg": 612.8294999999998,
+            "month": "Dec",
+            "currency": "Chilean peso   (CLP)"
+          },
+          {
+            "id": 9,
+            "min": 6.1137,
+            "max": 6.1411,
+            "avg": 6.124219047619048,
+            "month": "Dec",
+            "currency": "Chinese yuan   (CNY)"
+          },
+          {
+            "id": 10,
+            "min": 2206.19,
+            "max": 2446.35,
+            "avg": 2340.3942105263154,
+            "month": "Dec",
+            "currency": "Colombian peso   (COP)"
+          },
+          {
+            "id": 11,
+            "min": 22.017,
+            "max": 22.834,
+            "avg": 22.399549999999998,
+            "month": "Dec",
+            "currency": "Czech koruna   (CZK)"
+          },
+          {
+            "id": 12,
+            "min": 5.935,
+            "max": 6.1214,
+            "avg": 6.026042105263158,
+            "month": "Dec",
+            "currency": "Danish krone   (DKK)"
+          },
+          {
+            "id": 13,
+            "min": 0.797638989,
+            "max": 0.823655383,
+            "avg": 0.8110053344285714,
+            "month": "Dec",
+            "currency": "Euro   (EUR)"
+          },
+          {
+            "id": 14,
+            "min": 245.98,
+            "max": 259.23,
+            "avg": 251.59900000000002,
+            "month": "Dec",
+            "currency": "Hungarian forint   (HUF)"
+          },
+          {
+            "id": 15,
+            "min": 123.34,
+            "max": 127.16,
+            "avg": 124.96450000000002,
+            "month": "Dec",
+            "currency": "Icelandic krona   (ISK)"
+          },
+          {
+            "id": 16,
+            "min": 61.8535,
+            "max": 63.7498,
+            "avg": 62.710923809523806,
+            "month": "Dec",
+            "currency": "Indian rupee   (INR)"
+          },
+          {
+            "id": 17,
+            "min": 12264,
+            "max": 12900,
+            "avg": 12438.285714285714,
+            "month": "Dec",
+            "currency": "Indonesian rupiah   (IDR)"
+          },
+          {
+            "id": 18,
+            "min": 26486,
+            "max": 27139,
+            "avg": 26958.235294117647,
+            "month": "Dec",
+            "currency": "Iranian rial   (IRR)"
+          },
+          {
+            "id": 19,
+            "min": 3.889,
+            "max": 3.994,
+            "avg": 3.9346666666666668,
+            "month": "Dec",
+            "currency": "Israeli New Shekel   (ILS)"
+          },
+          {
+            "id": 20,
+            "min": 116.91,
+            "max": 121.52,
+            "avg": 119.31263157894738,
+            "month": "Dec",
+            "currency": "Japanese yen   (JPY)"
+          },
+          {
+            "id": 21,
+            "min": 180.87,
+            "max": 182.35,
+            "avg": 181.77142857142857,
+            "month": "Dec",
+            "currency": "Kazakhstani tenge   (KZT)"
+          },
+          {
+            "id": 22,
+            "min": 1088.1,
+            "max": 1118.3,
+            "avg": 1104.3285714285714,
+            "month": "Dec",
+            "currency": "Korean won   (KRW)"
+          },
+          {
+            "id": 23,
+            "min": 0.2913,
+            "max": 0.2929,
+            "avg": 0.29198571428571424,
+            "month": "Dec",
+            "currency": "Kuwaiti dinar   (KWD)"
+          },
+          {
+            "id": 24,
+            "min": 1.9324,
+            "max": 1.9324,
+            "avg": 1.9324000000000001,
+            "month": "Dec",
+            "currency": "Libyan dinar   (LYD)"
+          },
+          {
+            "id": 25,
+            "min": 3.423,
+            "max": 3.504,
+            "avg": 3.4800000000000004,
+            "month": "Dec",
+            "currency": "Malaysian ringgit   (MYR)"
+          },
+          {
+            "id": 26,
+            "min": 31.4429,
+            "max": 31.7281,
+            "avg": 31.561400000000003,
+            "month": "Dec",
+            "currency": "Mauritian rupee   (MUR)"
+          },
+          {
+            "id": 27,
+            "min": 13.9262,
+            "max": 14.7853,
+            "avg": 14.49125789473684,
+            "month": "Dec",
+            "currency": "Mexican peso   (MXN)"
+          },
+          {
+            "id": 28,
+            "min": 98.84,
+            "max": 101.87,
+            "avg": 100.23666666666668,
+            "month": "Dec",
+            "currency": "Nepalese rupee   (NPR)"
+          },
+          {
+            "id": 29,
+            "min": 1.270809506,
+            "max": 1.30667712,
+            "avg": 1.2879945259047618,
+            "month": "Dec",
+            "currency": "New Zealand dollar   (NZD)"
+          },
+          {
+            "id": 30,
+            "min": 6.9569,
+            "max": 7.6111,
+            "avg": 7.27182,
+            "month": "Dec",
+            "currency": "Norwegian krone   (NOK)"
+          },
+          {
+            "id": 31,
+            "min": 0.3845,
+            "max": 0.3845,
+            "avg": 0.3845,
+            "month": "Dec",
+            "currency": "Omani rial   (OMR)"
+          },
+          {
+            "id": 32,
+            "min": 100.2986,
+            "max": 102.0843,
+            "avg": 100.9541380952381,
+            "month": "Dec",
+            "currency": "Pakistani rupee   (PKR)"
+          },
+          {
+            "id": 33,
+            "min": 2.925,
+            "max": 2.987,
+            "avg": 2.957470588235294,
+            "month": "Dec",
+            "currency": "Peruvian sol   (PEN)"
+          },
+          {
+            "id": 34,
+            "min": 44.51,
+            "max": 44.915,
+            "avg": 44.68776470588235,
+            "month": "Dec",
+            "currency": "Philippine peso   (PHP)"
+          },
+          {
+            "id": 35,
+            "min": 3.3466,
+            "max": 3.5458,
+            "avg": 3.4173047619047616,
+            "month": "Dec",
+            "currency": "Polish zloty   (PLN)"
+          },
+          {
+            "id": 36,
+            "min": 3.64,
+            "max": 3.64,
+            "avg": 3.6399999999999997,
+            "month": "Dec",
+            "currency": "Qatari riyal   (QAR)"
+          },
+          {
+            "id": 37,
+            "min": 50.7678,
+            "max": 67.7851,
+            "avg": 56.12080952380953,
+            "month": "Dec",
+            "currency": "Russian ruble   (RUB)"
+          },
+          {
+            "id": 38,
+            "min": 3.75,
+            "max": 3.75,
+            "avg": 3.75,
+            "month": "Dec",
+            "currency": "Saudi Arabian riyal   (SAR)"
+          },
+          {
+            "id": 39,
+            "min": 1.3043,
+            "max": 1.3253,
+            "avg": 1.3152333333333335,
+            "month": "Dec",
+            "currency": "Singapore dollar   (SGD)"
+          },
+          {
+            "id": 40,
+            "min": 11.02625,
+            "max": 11.6767,
+            "avg": 11.460528947368422,
+            "month": "Dec",
+            "currency": "South African rand   (ZAR)"
+          },
+          {
+            "id": 41,
+            "min": 130.9917,
+            "max": 131.0778,
+            "avg": 131.02237142857143,
+            "month": "Dec",
+            "currency": "Sri Lankan rupee   (LKR)"
+          },
+          {
+            "id": 42,
+            "min": 7.4455,
+            "max": 7.8117,
+            "avg": 7.614459999999999,
+            "month": "Dec",
+            "currency": "Swedish krona   (SEK)"
+          },
+          {
+            "id": 43,
+            "min": 0.9587,
+            "max": 0.9891,
+            "avg": 0.9751476190476192,
+            "month": "Dec",
+            "currency": "Swiss franc   (CHF)"
+          },
+          {
+            "id": 44,
+            "min": 32.797,
+            "max": 33.082,
+            "avg": 32.90844444444445,
+            "month": "Dec",
+            "currency": "Thai baht   (THB)"
+          },
+          {
+            "id": 45,
+            "min": 6.3458,
+            "max": 6.3786,
+            "avg": 6.361179999999999,
+            "month": "Dec",
+            "currency": "Trinidadian dollar   (TTD)"
+          },
+          {
+            "id": 46,
+            "min": 1.8396,
+            "max": 1.86578,
+            "avg": 1.854717619047619,
+            "month": "Dec",
+            "currency": "Tunisian dinar   (TND)"
+          },
+          {
+            "id": 47,
+            "min": 3.6725,
+            "max": 3.6725,
+            "avg": 3.6725000000000003,
+            "month": "Dec",
+            "currency": "U.A.E. dirham   (AED)"
+          },
+          {
+            "id": 48,
+            "min": 0.635445129,
+            "max": 0.643707757,
+            "avg": 0.639152527952381,
+            "month": "Dec",
+            "currency": "U.K. pound   (GBP)"
+          },
+          {
+            "id": 49,
+            "min": 1,
+            "max": 1,
+            "avg": 1,
+            "month": "Dec",
+            "currency": "U.S. dollar   (USD)"
+          },
+          {
+            "id": 50,
+            "min": 23.868,
+            "max": 24.566,
+            "avg": 24.0788,
+            "month": "Dec",
+            "currency": "Uruguayan peso   (UYU)"
+          }
+        ]
+      }
+    ]
+  }
+]
