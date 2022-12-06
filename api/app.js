@@ -13,12 +13,12 @@ app.get("/ping", (req, res) => {
 
 app.post("/graph/yearly", async (req, res) => {
     let from_year = "Year_";
-    from_year += req.body.from_year;
+    from_year += req.body.year1;
 
 
     currency = req.body.currency;
 
-    dbname1 = req.body.from_year;
+    dbname1 = req.body.year1;
 
     try {
         const db = client.db("new_test");
