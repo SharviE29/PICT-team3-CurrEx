@@ -11,7 +11,7 @@ app.get("/ping", (req, res) => {
     res.send("pong");
 });
 
-app.get("/graph/yearly", async (req, res) => {
+app.post("/graph/yearly", async (req, res) => {
     let from_year = "Year_";
     from_year += req.body.from_year;
 
@@ -47,7 +47,7 @@ app.get("/graph/yearly", async (req, res) => {
     }
 });
 
-app.get("/graph/monthly", async (req, res) => {
+app.post("/graph/monthly", async (req, res) => {
     let year = "Year_";
     year += req.body.year;
     currency = req.body.currency;
@@ -101,7 +101,7 @@ app.get("/graph/monthly", async (req, res) => {
     }
 });
 
-app.get("/curr/", async (req, res) => {
+app.post("/curr/", async (req, res) => {
     let year = "Year_";
     year += req.body.year;
 
