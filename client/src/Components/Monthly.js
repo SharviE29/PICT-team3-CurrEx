@@ -1,94 +1,14 @@
 import React, { useState } from "react";
-import Linegraph from "./Linegraph";
-import Yearly from "./Yearly";
-import Monthly from "./Monthly";
-import Quarterly from "./Quarterly";
-import Weekly from "./Weekly";
-const Homescreen = () => {
-    const [period, setPeriod] = useState("");
-    const [btnperiod, setbtnperiod] = useState("Period");
+
+const Monthly = () => {
     const [year, setYear] = useState("Year");
     // const [month, setMonth] = useState("Month");
     const [currency, setCurrency] = useState("Currency");
 
-    const onClick = () => {
-       
-    }
-
+    
 
     return (
-        <div className="home row">
-            <div className="graphContainer col-lg-8">
-                
-                {/* <div className="toInput">
-                    <div>q</div>
-                    <div>ds</div>
-                </div> */}
-            </div>
-            <div className="choices col-lg-4">
-                
-               <h4>Make a Selection</h4> 
-                
-                <div className="dropdown period">
-                    <button
-                        class="btn btn-secondary dropdown-toggle"
-                        type="button"
-                        data-bs-toggle="dropdown"
-                        aria-expanded="false"
-                    >
-                        {btnperiod}
-                    </button>
-                    <ul class="dropdown-menu">
-                        <li>
-                            <button
-                                class="dropdown-item"
-                                onClick={() => {
-                                    setPeriod("Yearly");
-                                    setbtnperiod("Yearly");
-                                }}
-                            >
-                                Yearly
-                            </button>
-                        </li>
-                        <li>
-                            <button
-                                class="dropdown-item"
-                                onClick={() => {
-                                    setPeriod("Monthly");
-                                    setbtnperiod("Monthly");
-                                }}
-                            >
-                                Monthly
-                            </button>
-                        </li>
-                        <li>
-                            <button
-                                class="dropdown-item"
-                                href="#"
-                                onClick={() => {
-                                    setPeriod("Weekly");
-                                    setbtnperiod("Weekly");
-                                }}
-                            >
-                                Weekly
-                            </button>
-                        </li>
-                        <li>
-                            <button
-                                class="dropdown-item"
-                                href="#"
-                                onClick={() => {
-                                    setPeriod("Quarterly");
-                                    setbtnperiod("Quarterly");
-                                }}
-                            >
-                                Quarterly
-                            </button>
-                        </li>
-                    </ul>
-                    {period === "Yearly" && <Yearly/>}
-                    {period === "Monthly" && 
-                    <div className="period-div">
+        <div className="period-div">
             <div className="row">
                 <div className="year-col col-lg-6">
                     <button
@@ -266,19 +186,12 @@ const Homescreen = () => {
                     </ul>
                 </div>
             </div>
-            <button className="displayGraph" onClick={onClick}>
+            <button className="displayGraph">
                 Show Stats
             </button>
         </div>
 
-                    }
-                    {period === "Quarterly" && <Quarterly/>}
-                    {period === "Weekly" && <Weekly/>}
-                </div>
-                {/* <Linegraph/> */}
-            </div>
-        </div>
     );
 };
 
-export default Homescreen;
+export default Monthly;
